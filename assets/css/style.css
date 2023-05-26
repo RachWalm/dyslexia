@@ -10,11 +10,12 @@
 
 .column {
     display:flex;
-    /*flex-direction:row;
-    max-width:30%;
-    flex:1;*/
     gap:5rem;
     justify-content: center;
+}
+
+.column-width {
+    width:30%
 }
 
 /*box borders*/
