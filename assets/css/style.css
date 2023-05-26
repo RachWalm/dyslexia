@@ -15,7 +15,24 @@
 }
 
 .column-width {
-    width:30%
+    width:30%;
+}
+
+/*found transform:translate on W3 2D transformations to stack the boxes*/
+
+.bottom-right {
+    transform:translate(150px, -100px)
+}
+
+.below {
+    transform:translate(0px, 50px)
+}
+
+/*position center image*/
+.center-center {
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 /*box borders*/
