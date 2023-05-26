@@ -6,14 +6,23 @@
     border:none;
 }
 
+/*page layout*/
+
+.column {
+    display:flex;
+    /*flex-direction:row;
+    max-width:30%;
+    flex:1;*/
+    gap:5rem;
+    justify-content: center;
+}
+
 /*box borders*/
 
-.container {
-    width:200px;
-    height:175px;
-    border-style:solid;
-    border-width: 1px;
-    margin:0 auto;
-    border-color:black;
-    border: radius 5%;
+.box-outline {
+    border:1px solid black;
+    border-radius: 5%;
+    width: 300px;
+    height: 200px;
 }
+
