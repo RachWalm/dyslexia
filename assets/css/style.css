@@ -6,7 +6,31 @@
     border:none;
 }
 
-/*page layout*/
+/*header*/
+
+/*logo*/
+
+h1{
+    display:flex;
+    justify-content:flex-start
+}
+
+/*title*/
+
+h2 {
+    display:flex;
+    justify-content:center;
+}
+
+/*navigation*/
+
+nav{
+    display:flex;
+    justify-content:right;
+    
+}
+
+/*main section of page layout*/
 
 .column {
     display:flex;
@@ -33,7 +57,7 @@
     display:flex;
     justify-content:center;
     align-items:center;
-    /*background-attachment: fixed; need to look at this*/
+    /*position:fixed; needs to work with columns*/ 
 }
 
 /*box borders*/
@@ -45,3 +69,19 @@
     height: 200px;
 }
 
+.remove-bullets {
+    list-style-type:none;
+}
+
+/*footer*/
+footer {
+    height:100px;
+    background-color:green;
+}
+
+.footer-links {
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    padding:40px;
+}
