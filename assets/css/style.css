@@ -20,7 +20,7 @@
 
 #hero {
     height:250px;
-    width100%;
+    width:100%;
     overflow:hidden;
 }
 
@@ -33,13 +33,14 @@
 }
 
 .column-width {
-    width:32%;
+    width:30%;
 }
 
 /*found transform:translate on W3 2D transformations to stack the boxes*/
 
 .bottom-right {
-    transform:translate(150px, -100px)
+    transform:translate(150px, -100px);
+        
     /*position:absolute;
     top:500px;
     left:150px;*/
@@ -51,7 +52,6 @@
     justify-content:center;
     align-items:center;
     overflow:hidden;
-    /*position:fixed; needs to work with columns*/ 
 }
 
 /*box borders*/
@@ -61,6 +61,7 @@
     border-radius: 5%;
     width: 250px;
     height: 200px;
+    background-color: aquamarine;
 }
 
 .remove-bullets {
@@ -69,13 +70,16 @@
 
 /*footer*/
 footer {
-    height:100px;
+    height:75px;
     background-color:green;
+    position:fixed;
+    bottom:0;
+    width:100%;
 }
 
 .footer-links {
     display:flex;
     justify-content:space-evenly;
     flex-wrap:wrap;
-    padding:40px;
+    padding:30px;
 }
