@@ -8,26 +8,11 @@
 
 /*header*/
 
-/*logo*/
-
-h1{
+.header-columns {
     display:flex;
-    justify-content:flex-start
-}
-
-/*title*/
-
-h2 {
-    display:flex;
-    justify-content:center;
-}
-
-/*navigation*/
-
-nav{
-    display:flex;
-    justify-content:right;
-    
+    justify-content:space-around;
+    gap:5px;
+    align-items: center;
 }
 
 /*main section of page layout*/
