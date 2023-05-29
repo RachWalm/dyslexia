@@ -1,9 +1,15 @@
 /*from love running to clear global settings*/
 
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
 *{
     margin:0;
     padding:0;
     border:none;
+}
+
+body {
+    font-family: Jost, sans-serif;
 }
 
 /*header*/
@@ -16,12 +22,16 @@
     text-align: center;
 }
 
+h2 {
+    font-size: 300%;
+    
+}
+
 /* hero image*/
 
 #hero {
     height:250px;
     width:100%;
-    overflow:hidden;
 }
 
 /*main section of page layout*/
@@ -36,7 +46,7 @@
     width:30%;
 }
 
-/*found transform:translate on W3 2D transformations to stack the boxes*/
+/*found transform:translate on W3 2D transformations to stack the boxes check can I use*/
 
 .bottom-right {
     transform:translate(150px, -100px);
