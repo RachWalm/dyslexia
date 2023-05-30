@@ -36,13 +36,14 @@ h2 {
 #hero {
     height:250px;
     width:100%;
+    overflow:hidden;
 }
 
 /*main section of page layout*/
 
 .column {
     display:flex;
-    gap:5rem;
+    gap:2rem;
     justify-content: center;
 }
 
