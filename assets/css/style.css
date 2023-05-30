@@ -12,6 +12,11 @@ body {
     font-family: Jost, sans-serif;
 }
 
+main {
+    background-color:#BDFC94;
+    width:100%;
+}
+
 /*header*/
 
 .header-columns {
@@ -23,8 +28,7 @@ body {
 }
 
 h2 {
-    font-size: 300%;
-    
+    font-size: 350%;
 }
 
 /* hero image*/
@@ -71,7 +75,7 @@ h2 {
     border-radius: 5%;
     width: 250px;
     height: 200px;
-    background-color: aquamarine;
+    background-color: #96D7F1;
 }
 
 .remove-bullets {
@@ -81,7 +85,7 @@ h2 {
 /*footer*/
 footer {
     height:75px;
-    background-color:green;
+    background-color:#8ABCE6;
     position:fixed;
     bottom:0;
     width:100%;
