@@ -57,6 +57,7 @@ h2 {
     display:flex;
     gap:2rem;
     justify-content: center;
+    padding-top: 25px;
 }
 
 .column-width {
