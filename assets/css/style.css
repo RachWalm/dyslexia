@@ -31,6 +31,16 @@ main {
 
 h2 {
     font-size: 350%;
+    letter-spacing:4px;
+}
+
+#header-nav a {
+    text-decoration: none;
+    color:inherit;
+}
+
+#header-nav a:hover {
+    font-size:130%;
 }
 
 /* hero image*/
