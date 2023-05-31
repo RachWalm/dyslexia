@@ -82,7 +82,7 @@ h2 {
     overflow:hidden;
 }
 
-/*box borders*/
+/*box borders and styling*/
 
 .box-outline {
     border:1px solid black;
@@ -98,6 +98,10 @@ h2 {
 
 .scroll-list {
     overflow:scroll;
+}
+
+.yellow-change:hover {
+    background-color: #f7f700;
 }
 
 /*footer*/
