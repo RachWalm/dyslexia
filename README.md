@@ -1,39 +1,53 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Dyslexia by a dyslexic
+Dyslexia by a dyslexic website is designed for two types of visitors. Firstly, make people with dyslexia feel that they are not alone in their experiences. Secondly allow non-dyslexics appreciate some of the differences of dyslexics.
 
-Welcome,
+## User Experience (UX)
+### Initial design
+#### Scope and Strategy
+There are lots of websites that provide technical information for dyslexics. These usually require a lot of reading, which is not advantageous for dyslexics and can be quite daunting. This website is going to use minimal text to provide an easy place for people wanting to find out more about dyslexia or feel that they are not alone/comment on their experiences.
+It is out of scope of this project to provide any technical or medical advice.
+#### Skeleton
+* Landing page
+* Hints and Tips and what it is like
+* Form for people to share their experiences
+#### Wireframes
+## Features
+### Existing Features
+Every page will have navigation to the other pages in the header and links to other external resources in the footer.
+The landing page provides links to other pages to make it apparent what the site can be used for, explaining the purpose of the site.
+The next page is a page for people to see what dyslexia is like and provides solutions to some common experiences. This page has video in the center that gives some idea of how difficult it is to read as a dyslexic.
+There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow.
+Form to submit  
+### Features Left to Implement
+The form currently doesn't actually capture the data that is submitted. This would be a next stage implementation.
+Ideally the site would also contain more examples and hints and tips as the knowledge base was increased through user input.
+A form that counts up how many of the common things experienced by dyslexics you experience.
+## Maintenance
+The external links to other resources need to be monitored to ensure that they are still leading to valid pages.
+## Testing
+Links
+Functions
+Responsiveness on different devices
+## Resources used/Credits
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+HTML5
+CSS3
+Git
+VScode
+https://www.resizepixel.com/
+lots of code institute and W3 pages
+you tube for video
+ ## atributation
+https://pxhere.com/en/photo/1041474
+<a href="https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph">Image by jannoon028</a> on Freepik
+https://pixabay.com/illustrations/brain-chain-health-idea-human-3446307/ Image by <a href="https://pixabay.com/users/quincecreative-1031690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3446307">3D Animation
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+https://www.dyslexialondon.org/
+https://www.nhs.uk/conditions/dyslexia/
+https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists
 
-## Codeanywhere Reminders
+google fonts
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Acknowledgements
 
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Mentor
