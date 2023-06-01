@@ -104,6 +104,17 @@ h2 {
     background-color: #f7f700;
 }
 
+.form-background {
+    /*display:flex;
+    flex-direction: column;*/
+    height:800px;
+}
+
+.form-items {
+    display:flex;
+    flex-direction:column;
+}
+
 /*footer*/
 footer {
     height:75px;

@@ -36,8 +36,17 @@
         <img src="./assets/images/wepik-open-book-hero-200.jpg" alt="pile of books and open books on grass">
     </div>
     
-    <main>
-        <form>
+    <main class="form-background">
+        <form action="#" method="post" class="form-items">
+            <label for="first-name">First Name</label> 
+            <input id="first-name" type="text" name="first_name" placeholder="John">
+            <label for="last-name">Last Name</label> 
+            <input id="last-name" type="text" name="last_name" placeholder="Doe">
+            <label for="e-mail">Email Address</label> 
+            <input id="e-mail" type="email" name="e_mail" placeholder="john.doe@gmail.com">
+            <label for="permit-contact">Check box to give permission for us to contact you</label> 
+            <input id="permit-contact" type="checkbox" name="permission">
+            <textarea id="submission" placeholder="Enter information here of your experiences and hints and tips."></textarea>
             <button type="submit">Submit information</button>
         </form>
     </main>
