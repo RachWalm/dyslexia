@@ -4,7 +4,7 @@
 ## User Experience (UX)
 ### Initial design
 #### Scope and Strategy
-<p>There are lots of websites that provide technical information for dyslexics. These usually require a lot of reading, which is not advantageous for dyslexics and can be quite daunting. This website is going to use minimal text to provide an easy place for people wanting to find out more about dyslexia or feel that they are not alone/comment on their experiences.</p>
+<p>There are lots of websites that provide technical information for dyslexics. These usually require a lot of reading, which is not advantageous for dyslexics and can be quite daunting. This website is going to use minimal text to provide an easy, calm and safe place for people wanting to find out more about dyslexia or feel that they are not alone/comment on their experiences.</p>
 <p>It is out of scope of this project to provide any technical or medical advice. </p>
 
 #### User Stories
@@ -29,7 +29,7 @@
 ## Features
 ### Existing Features
 <p>Every page will have navigation to the other pages in the header and links to other external resources in the footer.</p>
-<p>The landing page provides links to other pages to make it apparent what the site can be used for, explaining the purpose of the site.</p>
+<p>The landing page provides links to other pages to make it apparent what the site can be used for, explaining the purpose of the site. It also has a navigation bar in the top and links to internal pages in the main section to aid movement around the site.</p>
 <p>The next page is a page for people to see what dyslexia is like and provides solutions to some common experiences. This page has video in the center that gives some idea of how difficult it is to read as a dyslexic.</p>
 <p>There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow. This part of the site is purposefully not a nice color or easy to read to show that this what dyslexics experience.</p>
 <p>Form to submit </p> 
