@@ -74,8 +74,8 @@ h2 {
     transform:translate(150px, -100px);*/
 
 .top-left-infront {
-    position:absolute;
-    top:550px;
+    position:relative;
+    top:-30px;
     left:150px;
 }
 
@@ -85,21 +85,21 @@ h2 {
 }
 
 .bottom-left-infront {
-    position:absolute;
-    top:1000px;
+    position:relative;
+    top:250px;
     left:150px;
 }
 
 .top-right-infront {
     position:relative;
-    top:-100px;
-    right:-50px;
+    top:-30px;
+    right:-150px;
 }
 
 .bottom-right-infront {
     position:relative;
-    top:200px;
-    right:-50px;
+    top:250px;
+    right:-150px;
 }
 
 /*position center image*/
