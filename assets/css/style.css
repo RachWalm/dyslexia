@@ -79,13 +79,13 @@ h2 {
 }
 
 .bottom-behind {
-    position:absolute;
-    top:900px;
+    position:relative;
+    top:20px;
 }
 
 .bottom-left-infront {
     position:relative;
-    top:250px;
+    top:-30px;
     left:150px;
 }
 
@@ -97,7 +97,7 @@ h2 {
 
 .bottom-right-infront {
     position:relative;
-    top:250px;
+    top:-30px;
     right:-150px;
 }
 
@@ -186,12 +186,23 @@ footer {
 
 /*Media Query*/
 
-@media screen and (max-width:1300px) {
+@media screen and (max-width:1270px) {
     .column {
         display: flex; 
         flex-direction:column;
         justify-content: flex-start;
         align-items: center;
+    }
+    .column-width {
+        width:100%;
+    }
+
+    .fill-background-index {
+        height:2000px;
+    }
+
+    .center-center {
+        padding:25px;
     }
 
 }
