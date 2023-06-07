@@ -55,11 +55,12 @@ h2 {
     height:200px;
     width:100%;
     overflow:hidden;
+    object-fit: cover;
 }
 
 /*main section of page layout*/
 
-.fill-background-index {
+.fill-background {
     min-height:100vh;
     margin-bottom:4em;
 }
@@ -136,11 +137,6 @@ h2 {
 
 .yellow-change:hover {
     background-color: #f7f700;
-}
-
-/* this should be looked at to fill screen responsively so height of form works*/
-.fill-background-form {
-    height:400px;
 }
 
 .form-background {
