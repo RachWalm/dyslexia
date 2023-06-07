@@ -60,7 +60,8 @@ h2 {
 /*main section of page layout*/
 
 .fill-background-index {
-    height:1000px;
+    min-height:100vh;
+    margin-bottom:4em;
 }
 
 .column {
