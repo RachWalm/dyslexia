@@ -35,9 +35,13 @@
 <p>Form to submit </p> 
 
 ### Features Left to Implement
-<p>The form currently doesn't actually capture the data that is submitted. This would be a next stage implementation.</p>
-<p>Ideally the site would also contain more examples and hints and tips as the knowledge base was increased through user input.</p>
-<p>An additional page containing a form that counts up how many of the common things experienced by dyslexics you experience. So that people don't go to external sites for this information.</p>
+The form currently doesn't actually capture the data that is submitted or validate that the form has all the sections filled. These would be good next stage implementation.
+
+
+Ideally the site would also contain more examples and hints and tips as the knowledge base was increased through user input.
+
+
+An additional page containing a form that counts up how many of the common things experienced by dyslexics you experience. So that people don't go to external sites for this information.
 
 ## Maintenance
 The external links to other resources need to be monitored to ensure that they are still leading to valid pages.
@@ -45,9 +49,10 @@ The external links to other resources need to be monitored to ensure that they a
 ## Deployment
 
 ## Testing
-Links
-Functions
-Responsiveness on different devices
+### Links
+### Functions
+### Responsiveness on different devices
+### Other people using the site
 ## Resources used/Credits
 
 HTML5
@@ -62,12 +67,17 @@ https://pxhere.com/en/photo/1041474
 <a href="https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph">Image by jannoon028</a> on Freepik
 https://pixabay.com/illustrations/brain-chain-health-idea-human-3446307/ Image by <a href="https://pixabay.com/users/quincecreative-1031690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3446307">3D Animation
 
+utube video
+
 https://www.dyslexialondon.org/
 https://www.nhs.uk/conditions/dyslexia/
 https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists
 
 google fonts
 
+Icons if used
+
 ## Acknowledgements
 
 Mentor
+Tester team 
