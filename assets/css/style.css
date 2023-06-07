@@ -55,7 +55,7 @@ h2 {
     height:200px;
     width:100%;
     overflow:hidden;
-    object-fit: cover;
+    object-fit:cover;
 }
 
 /*main section of page layout*/
