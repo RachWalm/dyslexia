@@ -51,6 +51,10 @@ h2 {
 
 /* hero image*/
 
+#hero-outer {
+    height:200px;
+}
+
 #hero {
     height:200px;
     width:100%;
