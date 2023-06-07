@@ -176,7 +176,10 @@ h2 {
 
 /*footer*/
 footer {
+    display:flex;
+    align-items: center;
     height:75px;
+    justify-content: space-around;
     background-color:#95C0E2;
     position:fixed;
     bottom:0;
@@ -186,8 +189,10 @@ footer {
 .footer-links {
     display:flex;
     justify-content:space-evenly;
+    gap:5px;
+    width:100%;
+    align-items:center;
     flex-wrap:wrap;
-    padding:30px;
 }
 
 /*Media Query*/
@@ -209,6 +214,10 @@ footer {
 
     .center-center {
         padding:25px;
+    }
+
+    footer {
+        height:100px;
     }
 
 }
