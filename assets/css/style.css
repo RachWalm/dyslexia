@@ -72,7 +72,7 @@ h2 {
 .column {
     display:flex;
     justify-content: space-around;
-    /*padding: 25px;*/
+    padding: 25px;
 }
 
 .column-width {
@@ -224,4 +224,18 @@ footer {
         height:100px;
     }
 
+}
+
+@media screen and (max-width:400px) {
+    .header-columns{
+        display:flex;
+        flex-direction: column;
+    }
+    
+    .box-outline {
+        position:relative;
+        top:0px;
+        right:0px;
+        left:0px;
+    }
 }
