@@ -206,7 +206,10 @@ footer {
         align-items: center;
     }
     .column-width {
+        display:flex;
+        flex-direction:column;
         width:100%;
+        align-items:center;
     }
 
     .fill-background-index {
