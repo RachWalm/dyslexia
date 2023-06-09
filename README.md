@@ -53,12 +53,15 @@ The external links to other resources need to be monitored to ensure that they a
 ### Functions
 ### Responsiveness on different devices
 ### Other people using the site
-## Resources used/Credits
 
+## Resources used/Credits
+### Technology used
 HTML
 CSS
 Git
 VScode
+
+
 https://www.resizepixel.com/
 lots of code institute and W3 pages
 you tube for video
@@ -81,4 +84,6 @@ Icons if used
 ## Acknowledgements
 
 Mentor
-Tester team 
+Tester team - My family
+Code institute
+Love running
