@@ -46,7 +46,7 @@ The colours for this project were decided by two factors:
  - Green has strong associations with health and also follows on from the grass in the hero image.
  - Yellow is a very difficult color for some dyslexics to look at (including myself) due to a glare effect that non-dyslexics don't experience. So this is the colour that the box changes to to induce this effect in dyslexics.
 
-put pallet in here
+![pallet](documents/pallet.png)
 
  #### Font 
 
