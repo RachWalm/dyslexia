@@ -83,6 +83,13 @@ The external links to other resources need to be monitored to ensure that they a
 
 ## Deployment
 
+The site was deployed to GitHub pages. It was deployed by the following actions:
+- In the git hub repository *link* here, the settings tab was used.
+- Pages was selected from the left hand side.
+- Under Build and deployment Source section had 'Deploy from Branch' and the 'main' branch was selected.
+- This selection was saved
+
+Here is the [link](https://rachwalm.github.io/dyslexia/index.html) to the deployed page.
 
 ### Links
 ### Functions
