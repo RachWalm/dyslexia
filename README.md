@@ -55,14 +55,15 @@ The external links to other resources need to be monitored to ensure that they a
 ### Other people using the site
 ## Resources used/Credits
 
-HTML5
-CSS3
+HTML
+CSS
 Git
 VScode
 https://www.resizepixel.com/
 lots of code institute and W3 pages
 you tube for video
  ## Attributation
+This project is for educational purposes and not commercial gain, therefore the images etc. have been used within their expressed purpose.
 https://pxhere.com/en/photo/1041474
 <a href="https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph">Image by jannoon028</a> on Freepik
 https://pixabay.com/illustrations/brain-chain-health-idea-human-3446307/ Image by <a href="https://pixabay.com/users/quincecreative-1031690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3446307">3D Animation
