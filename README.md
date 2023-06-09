@@ -1,15 +1,21 @@
 # Dyslexia by a dyslexic
-<p>Dyslexia by a dyslexic website is designed for two types of visitors. Firstly, make people with dyslexia feel that they are not alone in their experiences. Secondly allow non-dyslexics appreciate some of the differences of dyslexics.</p>
+Dyslexia by a dyslexic website is designed for two types of visitors. Firstly, make people with dyslexia feel that they are not alone in their experiences. Secondly allow non-dyslexics appreciate some of the differences of dyslexics.
+
+The site can be access by this [link](https://rachwalm.github.io/dyslexia/index.html).
+
+Image from am I responsive webiste in here.
 
 ## User Experience (UX)
 ### Initial design
 #### Scope and Strategy
-<p>There are lots of websites that provide technical information for dyslexics. These usually require a lot of reading, which is not advantageous for dyslexics and can be quite daunting. This website is going to use minimal text to provide an easy, calm and safe place for people wanting to find out more about dyslexia or feel that they are not alone/comment on their experiences.</p>
-<p>It is out of scope of this project to provide any technical or medical advice. </p>
+There are lots of websites that provide technical information for dyslexics. These usually require a lot of reading, which is not advantageous for dyslexics and can be quite daunting. This website is going to use minimal text to provide an easy, calm and safe place for people wanting to find out more about dyslexia or feel that they are not alone/comment on their experiences.
+
+It is out of scope of this project to provide any technical or medical advice. 
 
 #### User Stories
-<p> First time user will use the site either as a potential dyslexic to discover more about if they are dyslexic and what they have in common with dyslexics or as a person interested in what being dyslexic is like. They will also be able to benefit from some ideas of how to work around dyslexic experiences.</p>
-<p>Repeat and Frequent users will come back as a place to find other resources about dyslexia and as the hints and tips section expands learn more ways to do things easily.</p>
+First time user will use the site either as a potential dyslexic to discover more about if they are dyslexic and what they have in common with dyslexics or as a person interested in what being dyslexic is like. They will also be able to benefit from some ideas of how to work around dyslexic experiences.
+
+Repeat and Frequent users will come back as a place to find other resources about dyslexia and as the hints and tips section expands learn more ways to do things easily.
 
 #### Skeleton
 - Landing page, to give user information on purpose of site
@@ -26,19 +32,40 @@
   - Form with Name and email contact and a text box to include personal experiences
   - Footer, links to external resources
 #### Wireframes
+
+#### Colour Design
+
+The colours for this project were decided by two factors:
+
+ - Colours that are specifically easy (or hard) to read for dyslexics and generally accessible.
+ - Colours that follow on from the pictures.
+
+ This means that we were looking for blues and greens (and yellow).
+
+ - Blue reduces the glare for dyslexics when placed as a background compared to whites and yellows. Blue was also present in both images as they both contained sky (which was another reason to select these images).
+ - Green has strong associations with health and also follows on from the grass in the hero image.
+ - Yellow is a very difficult color for some dyslexics to look at (including myself) due to a glare effect that non-dyslexics don't experience. So this is the colour that the box changes to to induce this effect in dyslexics.
+
+ #### Font 
+
+ The font also had to be chosen to be accessible to dyslexics
+
 ## Features
 ### Existing Features
-<p>Every page will have navigation to the other pages in the header and links to other external resources in the footer.</p>
-<p>The landing page provides links to other pages to make it apparent what the site can be used for, explaining the purpose of the site. It also has a navigation bar in the top and links to internal pages in the main section to aid movement around the site.</p>
-<p>The next page is a page for people to see what dyslexia is like and provides solutions to some common experiences. This page has video in the center that gives some idea of how difficult it is to read as a dyslexic.</p>
-<p>There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow. This part of the site is purposefully not a nice color or easy to read to show that this what dyslexics experience.</p>
-<p>Form to submit </p> 
+Every page will have navigation to the other pages in the header and links to other external resources in the footer.
+The landing page provides links to other pages to make it apparent what the site can be used for, explaining the purpose of the site. It also has a navigation bar in the top and links to internal pages in the main section to aid movement around the site.
+
+The next page is a page for people to see what dyslexia is like and provides solutions to some common experiences. This page has video in the center that gives some idea of how difficult it is to read as a dyslexic.
+
+There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow. This part of the site is purposefully not a nice color or easy to read to show that this what dyslexics experience.
+
+Form to submit 
 
 ### Features Left to Implement
 The form currently doesn't actually capture the data that is submitted or validate that the form has all the sections filled. These would be good next stage implementation.
 
 
-Ideally the site would also contain more examples and hints and tips as the knowledge base was increased through user input.
+Ideally the site would also contain more examples and hints and tips as the knowledge base was increased through user input. like curly text.
 
 
 An additional page containing a form that counts up how many of the common things experienced by dyslexics you experience. So that people don't go to external sites for this information.
@@ -48,7 +75,7 @@ The external links to other resources need to be monitored to ensure that they a
 
 ## Deployment
 
-## Testing
+
 ### Links
 ### Functions
 ### Responsiveness on different devices
@@ -56,17 +83,24 @@ The external links to other resources need to be monitored to ensure that they a
 
 ## Resources used/Credits
 ### Technology used
-HTML
-CSS
-Git
-VScode
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used for the basics of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) was added to generate the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) was used to place objects in the desired location.
+- [VSCode](https://code.visualstudio.com/) was used to create and edit the website.
+- [Balsamiq](https://balsamiq.com/) was used to generate wireframes.
+- [Git](https://git-scm.com/) was used for the version control through Git Commit.
+- [GitHub](https://github.com/) was used to host the website.
 
 
 https://www.resizepixel.com/
 lots of code institute and W3 pages
 you tube for video
  ## Attributation
-This project is for educational purposes and not commercial gain, therefore the images etc. have been used within their expressed purpose.
+This project is for educational purposes and not commercial gain, therefore the images and videos have been used within their expressed purpose.
+
+Significant inspiration and learning for this project was from my mentor showing me things in her repository.
+
 https://pxhere.com/en/photo/1041474
 <a href="https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph">Image by jannoon028</a> on Freepik
 https://pixabay.com/illustrations/brain-chain-health-idea-human-3446307/ Image by <a href="https://pixabay.com/users/quincecreative-1031690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3446307">3D Animation
@@ -87,3 +121,5 @@ Mentor
 Tester team - My family
 Code institute
 Love running
+
+## Testing
