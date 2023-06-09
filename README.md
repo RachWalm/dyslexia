@@ -67,9 +67,10 @@ The next page is a page for people to see what dyslexia is like and provides sol
 
 There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow. This part of the site is purposefully not a nice color or easy to read to show that this what dyslexics experience.
 
-Form to submit 
+Form to submit
 
 ### Features Left to Implement
+
 The form currently doesn't actually capture the data that is submitted or validate that the form has all the sections filled. These would be good next stage implementation.
 
 
@@ -77,6 +78,10 @@ Ideally the site would also contain more examples and hints and tips as the know
 
 
 An additional page containing a form that counts up how many of the common things experienced by dyslexics you experience. So that people don't go to external sites for this information.
+
+Error page that provides a 404 error with sites header and footer built in.
+
+Consistent and more frequent commit messages that are in the correct format for future commits.
 
 ## Maintenance
 The external links to other resources need to be monitored to ensure that they are still leading to valid pages.
