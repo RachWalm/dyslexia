@@ -79,6 +79,8 @@ h2 {
     width:30%;
 }
 
+/*individual box positions with relation to each other*/
+
 /*found transform:translate on W3 2D transformations to stack the boxes check can I use
 
 .bottom-right {
@@ -139,9 +141,13 @@ h2 {
     overflow:scroll;
 }
 
+/*function on hints and tips page*/
+
 .yellow-change:hover {
     background-color: #f7f700;
 }
+
+/*form page*/
 
 .form-background {
     display:flex;
@@ -176,6 +182,7 @@ h2 {
 }
 
 /*footer*/
+
 footer {
     display:flex;
     align-items: center;
