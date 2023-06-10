@@ -219,10 +219,6 @@ footer {
         align-items:center;
     }
 
-    .fill-background-index {
-        height:2000px;
-    }
-
     .center-center {
         padding:25px;
     }
@@ -241,8 +237,12 @@ footer {
     
     .box-outline {
         position:relative;
-        top:0px;
+        top:1rem;
         right:0px;
         left:0px;
     }
+}
+
+.fill-background {
+    margin-bottom: 100px;
 }
