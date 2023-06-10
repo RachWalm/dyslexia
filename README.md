@@ -83,8 +83,14 @@ Error page that provides a 404 error with sites header and footer built in.
 
 Consistent and more frequent commit messages that are in the correct format for future commits.
 
+Youtube video to go back to the start not continue to other content.
+
 ## Maintenance
 The external links to other resources need to be monitored to ensure that they are still leading to valid pages.
+
+##Bugs
+
+
 
 ## Deployment
 
