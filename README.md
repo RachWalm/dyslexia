@@ -96,6 +96,8 @@ Form didn't need to be filled (although did request correct types to be filled i
 
 Boxes in the main part of the page were hidden behind the footer. Solution
 
+translate transform to absolute positioning and flex.
+
 ## Unsolved bugs
 
 All bugs were solved
