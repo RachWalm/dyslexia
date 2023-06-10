@@ -88,9 +88,27 @@ Youtube video to go back to the start not continue to other content.
 ## Maintenance
 The external links to other resources need to be monitored to ensure that they are still leading to valid pages.
 
-##Bugs
+## Bugs
 
+White line appeared under the hero image and before the background of the main text. Solution - hero image and area containing hero image were diffent sizes and needed to be synchronised.
 
+Form didn't need to be filled (although did request correct types to be filled in) so could submit an empty of part filled form. Solution - Mentor reminded me of the 'required' code when I mentioned it to her. 
+
+Boxes in the main part of the page were hidden behind the footer. Solution
+
+## Unsolved bugs
+
+All bugs were solved
+
+### Human errors
+
+- Many spelling mistakes - all corrected (Hopefully).
+
+- Missing or deleted closing tags - all corrected (Hopefully).
+
+- Many attempts at code that needed mastery of the actions that it performed, like getting flex to put things where I wanted or appropriate sizing.
+
+- Commit messages that could have followed best practise more completely.
 
 ## Deployment
 
