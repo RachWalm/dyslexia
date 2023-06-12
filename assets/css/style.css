@@ -28,6 +28,8 @@ main {
     align-items: center;
 }
 
+/*page text sizes*/
+
 h1 {
     font-size: 350%;
     letter-spacing:4px;
@@ -35,6 +37,10 @@ h1 {
 
 h2 {
     visibility:hidden;
+}
+
+.small-text {
+    font-size:90%;
 }
 
 #header-nav {
@@ -58,6 +64,7 @@ h2 {
 #hero-outer {
     height:200px;
     object-fit: cover;
+    width:100%;
 }
 
 #hero {
@@ -70,7 +77,7 @@ h2 {
 /*main section of page layout*/
 
 .fill-background {
-    min-height:100vh;
+    min-height:60vh;
     margin-bottom:4em;
 }
 
@@ -162,7 +169,7 @@ h2 {
 }
 
 .form-container {
-    width: 400px;
+    width: 100%;
 }
 
 #e-mail {
@@ -170,16 +177,23 @@ h2 {
 }
 
 #submission {
-    height:80px;
-    width:399px;
+    max-width:90vw;
 }
 
 .form-feild {
     margin-bottom:10px;
 }
 
+.form-column-row {
+    display:flex;
+}
+
 .name {
     margin-left:30px;
+}
+
+.text-area {
+    resize:none;
 }
 
 .submit {
@@ -238,6 +252,7 @@ footer {
     .header-columns{
         display:flex;
         flex-direction: column;
+        max-width:95%;
     }
   
     .box-outline {
@@ -251,4 +266,12 @@ footer {
     .fill-background {
     margin-bottom: 100px;
     }
+
+    .form-column-row {
+        display:flex;
+        flex-direction:column;
+        justify-content: center;
+        max-width:90%;
+        }
+
 }

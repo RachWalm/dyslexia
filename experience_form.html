@@ -42,29 +42,32 @@
     
     <main class="form-background fill-background">
     <!--Form-->
-        <form action="thank_you.html" method="get" class="form-container">
-            <div>
-            <label for="first-name">First Name</label> 
-            <input class="form-feild name" id="first-name" type="text" name="first_name" placeholder="John" required>
-            </div>
-            <div>
-            <label for="last-name">Last Name</label> 
-            <input class="form-feild name" id="last-name" type="text" name="last_name" placeholder="Doe" required>
-            </div>
-            <div>
-            <label for="e-mail">Email Address</label> 
-            <input class="form-feild" id="e-mail" type="email" name="e_mail" placeholder="john.doe@gmail.com" required>
-            </div>
-            <div class="form-feild">
-            <input id="permit-contact" type="checkbox" name="permission">
-            <label for="permit-contact">Check box to give permission for us to contact you</label>
-            </div>
-            <div>
-            <textarea class="form-feild text-area" id="submission" name="info" placeholder="Enter information here of your experiences and hints and tips." required></textarea>
-            </div>
-            <div>            
-            <button class="submit" type="submit">Submit information</button>
-            </div>
+        <form action="thank_you.html" method="get">
+            <section class="form-container">
+                <h2>Section heading - hidden</h2>
+                <div class="form-column-row">
+                    <div><label for="first-name">First Name</label></div>
+                    <div><input class="form-feild name" id="first-name" type="text" name="first_name" placeholder="John" required></div>
+                </div>
+                <div class="form-column-row">
+                    <div><label for="last-name">Last Name</label></div>
+                    <div><input class="form-feild name" id="last-name" type="text" name="last_name" placeholder="Doe" required></div>
+                </div>
+                <div class="form-column-row">
+                    <div><label for="e-mail">Email Address</label></div>
+                    <div><input class="form-feild" id="e-mail" type="email" name="e_mail" placeholder="john.doe@gmail.com" required></div>
+                </div>
+                <div class="form-feild form-column-row">
+                    <span><input id="permit-contact" type="checkbox" name="permission"></span>
+                    <span><label id="permit" for="permit-contact">Check box to give permission for us to contact you</label></span>
+                </div>
+                <div class="form-column-row">
+                <textarea class="form-feild text-area" id="submission" name="info" placeholder="Enter information here of your experiences and hints and tips." required></textarea>
+                </div>
+                <div>            
+                <button class="submit" type="submit">Submit information</button>
+                </div>
+            </section>
         </form>
     </main>
     <!--Footer including links-->
