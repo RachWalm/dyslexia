@@ -49,10 +49,11 @@ h2 {
 #header-nav a {
     text-decoration: none;
     color:inherit;
+    font-size:130%;
 }
 
 #header-nav a:hover {
-    font-size:130%;
+    font-size:180%;
 }
 
 /* hero image*/
