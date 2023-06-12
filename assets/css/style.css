@@ -159,6 +159,12 @@ h2 {
     background-color: #f7f700;
 }
 
+#hands {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
 /*form page*/
 
 .form-background {
