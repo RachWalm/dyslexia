@@ -1,5 +1,5 @@
 # Dyslexia by a dyslexic
-Dyslexia by a dyslexic website is designed for two types of visitors. Firstly, make people with dyslexia feel that they are not alone in their experiences. Secondly allow non-dyslexics appreciate some of the differences of dyslexics.
+Dyslexia by a dyslexic website is designed for two types of visitors. Firstly, make people with dyslexia feel that they are not alone in their experiences and have a simple safe space. Secondly allow non-dyslexics appreciate some of the differences of dyslexics.
 
 The site can be access by this [link](https://rachwalm.github.io/dyslexia/index.html).
 
