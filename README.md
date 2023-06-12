@@ -166,6 +166,6 @@ Icons if used
 Mentor
 Tester team - My family
 Code institute
-Love running
+Love running font awsome taken from love running that I did copying.
 
 ## Testing
