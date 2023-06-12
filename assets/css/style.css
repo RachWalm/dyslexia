@@ -28,9 +28,13 @@ main {
     align-items: center;
 }
 
-h2 {
+h1 {
     font-size: 350%;
     letter-spacing:4px;
+}
+
+h2 {
+    visibility:hidden;
 }
 
 #header-nav {
