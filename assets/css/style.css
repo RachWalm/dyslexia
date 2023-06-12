@@ -169,11 +169,12 @@ h2 {
 }
 
 .form-container {
-    width: 100%;
+    width: 95%;
+    padding:5px;
 }
 
 #e-mail {
-    margin-left: 5px;
+    margin-left:5px;
 }
 
 #submission {
@@ -273,5 +274,8 @@ footer {
         justify-content: center;
         max-width:90%;
         }
-
+    
+    #e-mail {
+        margin-left:35px;
+    }
 }
