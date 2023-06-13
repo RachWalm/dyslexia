@@ -143,6 +143,15 @@ https://www.resizepixel.com/
 lots of code institute and W3 pages
 you tube for video
  ## Attributation
+
+ *,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 This project is for educational purposes and not commercial gain, therefore the images and videos have been used within their expressed purpose.
 
 Significant inspiration and learning for this project was from my mentor showing me things in her repository.
