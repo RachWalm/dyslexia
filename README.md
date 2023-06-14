@@ -236,8 +236,6 @@ Thank you page
 
 [Pixel-3-3-XL-393x786](documents/thank-393x786.png)
 
-### Other people using the site
-
 ## Resources used/Credits
 ### Technology used
 
@@ -320,4 +318,3 @@ Consistent and more frequent commit messages that are in the correct format for 
 
 Youtube video to go back to the start not continue to other content.
 
-## Testing
