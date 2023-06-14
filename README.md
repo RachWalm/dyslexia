@@ -129,6 +129,113 @@ Here is the [link](https://rachwalm.github.io/dyslexia/index.html) to the deploy
 ### Links
 ### Functions
 ### Responsiveness on different devices
+
+Devices sizes checked using developer tools chrom extension for responsive viewer.
+
+Index page
+
+[Galaxy-S9-Note-8-S8-360x740](documents/index-360x740.png)
+
+[Galaxy-S9-Plus-S8-Plus-412x846](documents/index-412x846.png)
+
+[iPad-Mini-768x1024](documents/index-768x1024.png)
+
+[iPad-Pro-(12.9-inch)-1024x1366](documents/index-1024x800.png)
+
+[iPhone-XR-XS-Max-414x896](documents/index-414x896.png)
+
+[iPhone-XS-X-375x812](documents/index-375x812.png)
+
+[Laptop-1-1440x900](documents/index-1440x900.png)
+
+[Laptop-2-1280x800](documents/index-1280x800.png)
+
+[Laptop-3-1280x950](documents/index-1280x950.png)
+
+[Large-Screen-688x1031](documents/index-688x1031.png)
+
+[Medium-Screen-1024x800](documents/index-1024x800.png)
+
+[Pixel-3-3-XL-393x786](documents/index-393x786.png)
+
+Hints and tips and what it is like page
+
+[Galaxy-S9-Note-8-S8-360x740](documents/hints-360x740.png)
+
+[Galaxy-S9-Plus-S8-Plus-412x846](documents/hints-412x846.png)
+
+[iPad-Mini-768x1024](documents/hints-768x1024.png)
+
+[iPad-Pro-(12.9-inch)-1024x1366](documents/hints-1024x1366.png)
+
+[iPhone-XR-XS-Max-414x896](documents/hints-414x896.png)
+
+[iPhone-XS-X-375x812](documents/hints-375x812.png)
+
+[Laptop-1-1440x900](documents/hints-1440x900.png)
+
+[Laptop-2-1280x800](documents/hints-1280x800.png)
+
+[Laptop-3-1280x950](documents/hints-1280x950.png)
+
+[Large-Screen-688x1031](documents/hints-688x1031.png)
+
+[Medium-Screen-1024x800](documents/hints-1024x800.png)
+
+[Pixel-3-3-XL-393x786](documents/hints-393x786.png)
+
+Form page
+
+[Galaxy-S9-Note-8-S8-360x740](documents/form-360x740.png)
+
+[Galaxy-S9-Plus-S8-Plus-412x846](documents/form-412x846.png)
+
+[iPad-Mini-768x1024](documents/form-768x1024.png)
+
+[iPad-Pro-(12.9-inch)-1024x1366](documents/form-1024x1366.png)
+
+[iPhone-XR-XS-Max-414x896](documents/form-414x896.png)
+
+[iPhone-XS-X-375x812](documents/form-375x812.png)
+
+[Laptop-1-1440x900](documents/form-1440x900.png)
+
+[Laptop-2-1280x800](documents/form-1280x800.png)
+
+[Laptop-3-1280x950](documents/form-1280x950.png)
+
+[Large-Screen-688x1031](documents/form-688x1031.png)
+
+[Medium-Screen-1024x800](documents/form-1024x800.png)
+
+[Pixel-3-3-XL-393x786](documents/form-393x786.png)
+
+Thank you page
+
+[Galaxy-S9-Note-8-S8-360x740](documents/thank-360x740.png)
+
+[Galaxy-S9-Plus-S8-Plus-412x846](documents/thank-412x846.png)
+
+[iPad-Mini-768x1024](documents/thank-768x1024.png)
+
+[iPad-Pro-(12.9-inch)-1024x1366](documents/thank-1024x1366.png)
+
+[iPhone-XR-XS-Max-414x896](documents/thank-414x896.png)
+
+[iPhone-XS-X-375x812](documents/thank-375x812.png)
+
+[Laptop-1-1440x900](documents/thank-1440x900.png)
+
+[Laptop-2-1280x800](documents/thank-1280x800.png)
+
+[Laptop-3-1280x950](documents/thank-1280x950.png)
+
+[Large-Screen-688x1031](documents/thank-688x1031.png)
+
+[Medium-Screen-1024x800](documents/thank-1024x800.png)
+
+[Pixel-3-3-XL-393x786](documents/thank-393x786.png)
+
 ### Other people using the site
 
 ## Resources used/Credits
