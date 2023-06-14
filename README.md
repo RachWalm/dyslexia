@@ -52,7 +52,10 @@ Desktop form page
 Desktop thank you page
 
 ![thanks-wireframe](documents/thank-you-desktop.png)
-
+![index-mobile-wireframe](documents/index-phone.png)
+![hints-mobile-wireframe](documents/hints-phone.png)
+![form-mobile-wireframe](documents/form-phone.png)
+![thanks-mobile-wireframe](documents/thank-you-phone.png)
 - Wireframes were created on Balsamiq to show the basic layout of the website.
 - There are wireframes for both desktop and mobile views.
 - During development an additional intermediate size was developed for index and hints and tips page that contained the overlapping boxes of the desktop but the column layout of the mobile.
