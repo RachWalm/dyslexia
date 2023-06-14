@@ -33,9 +33,30 @@ Repeat and Frequent users will come back as a place to find other resources abou
   - Footer, links to external resources
 #### Wireframes
 
+Desktop background for each page
+
+![constant-each-page-wireframe](documents/consistent-each-page-desktop.png)
+
+Desktop index page
+
+![index-wireframe](documents/index-desktop.png)
+
+Desktop hints and tips page
+
+![hints-wireframe](documents/hints-tips-desktop.png)
+
+Desktop form page
+
+![form-wireframe](documents/form-desktop.png)
+
+Desktop thank you page
+
+![thanks-wireframe](documents/thank-you-desktop.png)
+
 - Wireframes were created on Balsamiq to show the basic layout of the website.
 - There are wireframes for both desktop and mobile views.
 - During development an additional intermediate size was developed for index and hints and tips page that contained the overlapping boxes of the desktop but the column layout of the mobile.
+- During development it was also decided that it was better to have the nav under the title so this was changed.
 
 #### Colour Design
 
@@ -62,8 +83,6 @@ The colours for this project were decided by two factors:
 
  ![Font](documents/font-jost-light-300.png)
 
-
-
 ## Maintenance
 The external links to other resources need to be monitored to ensure that they are still leading to valid pages.
 
@@ -83,9 +102,9 @@ Boxes in the main part of the page were hidden behind the footer. Solution
 
 translate transform to absolute positioning and flex.
 
-## Unsolved bugs
+### Unsolved bugs
 
-All bugs were solved
+All detected bugs were solved
 
 ### Human errors
 
@@ -100,7 +119,7 @@ All bugs were solved
 ## Deployment
 
 The site was deployed to GitHub pages. It was deployed by the following actions:
-- In the git hub repository *link* here, the settings tab was used.
+- In the git hub [repository](https://github.com/RachWalm/dyslexia), the settings tab was used.
 - Pages was selected from the left hand side.
 - Under Build and deployment Source section had 'Deploy from Branch' and the 'main' branch was selected.
 - This selection was saved
@@ -192,3 +211,4 @@ Youtube video to go back to the start not continue to other content.
 ## Testing
 
 [def]: documents/all-size-website
+[def2]: documents/thank-you-desktop
