@@ -269,6 +269,7 @@ footer {
 
     .fill-background {
     margin-bottom: 100px;
+    min-height:80vh;
     }
 
     .form-column-row {
