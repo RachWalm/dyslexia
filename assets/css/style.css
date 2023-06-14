@@ -37,6 +37,8 @@ h2 {
     visibility:hidden;
 }
 
+/*header nav*/
+
 #header-nav {
     display:flex;
     width:100%;
