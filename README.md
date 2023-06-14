@@ -176,9 +176,14 @@ Icons if used
 
 ## Acknowledgements
 
-Mentor
-Tester team - My family
-Code institute
+My Mentor - Juliia Konn has been a superb support to me, giving me encouragement and a great deal of information for me to learn from.
+
+My family - Pat Walmsley and Sarah Walmsley have tested the site on their personal devices and given very useful feedback.
+
+My Partner - Ian Harris who has been extremely supportive while I have been working on this project.
+
+Code institute - For all the information and learning that I have done that contributed to this website. 
+
 Love running font awsome taken from love running that I did copying.
 
 ## Features
@@ -209,6 +214,3 @@ Consistent and more frequent commit messages that are in the correct format for 
 Youtube video to go back to the start not continue to other content.
 
 ## Testing
-
-[def]: documents/all-size-website
-[def2]: documents/thank-you-desktop
