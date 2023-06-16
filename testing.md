@@ -41,6 +41,9 @@ Tested function on Chrome/Safari/Edge/Firefox following the table below:
 |Hover over "Hints/Tips and What it is like" nav link |Chrome|Hints page |Text enlargens |
 |Hover over "Your experiences" nav link|Chrome|Hints page |Text enlargens |
 |Main section|Chrome|Hints page|
+|Blue to Yellow color change| Chrome|Hints page|When hovered or tapped color changes correctly
+|Scroll works in top right box|Chrome|Hints page|Can scroll through list|
+|You tube video|Chrome|Hints page|Plays only on request as an embedded video|
 |Footer|Chrome|Hints page|
 |Click link in footer for dyslexia association |Chrome|Hints page |Loads dyslexia association website in new window|
 |Click link in footer for NHS |Chrome|Hints page |Loads NHS website in new window|
@@ -54,7 +57,13 @@ Tested function on Chrome/Safari/Edge/Firefox following the table below:
 |Hover over "Hints/Tips and What it is like" nav link |Chrome|Form page |Text enlargens |
 |Hover over "Your experiences" nav link|Chrome|Form page |Text enlargens |
 |Main section|Chrome|Form page|
+|First name input|Chrome |Form page| Takes name input and produces error if attempt to submit empty|
+|Last name input|Chrome |Form page| Takes name input and produces error if attempt to submit empty|
+|Email input|Chrome|Form page| Will only accept text of email format and produces error if attempt to submit empty|
+|Contact permission box| Chrome|Form page|Can be empty or filled. Try both. 
 |Footer|Chrome|Form page|
+|Text area|Chrome|Form page|Text can be added and must be added or produces error|
+|Submit button|Chrome|Form page|If required sections are filled takes you to thank you page|
 |Click link in footer for dyslexia association |Chrome|Form page |Loads dyslexia association website in new window|
 |Click link in footer for NHS |Chrome|Form page |Loads NHS website in new window|
 |Click link in footer for checklist |Chrome|Form page |Loads external checklist page in new window|
@@ -67,6 +76,7 @@ Tested function on Chrome/Safari/Edge/Firefox following the table below:
 |Hover over "Hints/Tips and What it is like" nav link |Chrome|Thank you page |Text enlargens |
 |Hover over "Your experiences" nav link|Chrome|Thank you page |Text enlargens |
 |Main section|Chrome|Thank you page|
+|Page should return to index after 10 seconds|Chrome|Thank you page|Page should return to index after 10 seconds
 |Footer|Chrome|Thank you page|
 |Click link in footer for dyslexia association |Chrome|Thank you page |Loads dyslexia association website in new window|
 |Click link in footer for NHS |Chrome|Thank you page |Loads NHS website in new window|
