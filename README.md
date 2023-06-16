@@ -173,6 +173,8 @@ Index page
 
 [Pixel-3-3-XL-393x786](documents/index-393x786.png)
 
+[Large-monitor-1920x1080](documents/index-1920x1080.png)
+
 Hints and tips and what it is like page
 
 [Galaxy-S9-Note-8-S8-360x740](documents/hints-360x740.png)
@@ -198,6 +200,8 @@ Hints and tips and what it is like page
 [Medium-Screen-1024x800](documents/hints-1024x800.png)
 
 [Pixel-3-3-XL-393x786](documents/hints-393x786.png)
+
+[Large-monitor-1920x1080](documents/hints-1920x1080.png)
 
 Form page
 
@@ -225,6 +229,8 @@ Form page
 
 [Pixel-3-3-XL-393x786](documents/form-393x786.png)
 
+[Large-monitor-1920x1080](documents/form-1920x1080.png)
+
 Thank you page
 
 [Galaxy-S9-Note-8-S8-360x740](documents/thank-360x740.png)
@@ -250,6 +256,8 @@ Thank you page
 [Medium-Screen-1024x800](documents/thank-1024x800.png)
 
 [Pixel-3-3-XL-393x786](documents/thank-393x786.png)
+
+[Large-monitor-1920x1080](documents/thank-1920x1080.png)
 
 ## Resources used/Credits
 ### Technology used
