@@ -33,33 +33,45 @@ Repeat and Frequent users will come back as a place to find other resources abou
   - Footer, links to external resources
 #### Wireframes
 
-Desktop background for each page
+Desktop layout background for each page
 
 ![constant-each-page-wireframe](documents/consistent-each-page-desktop.png)
 
-Desktop index page
+Desktop layout index page
 
 ![index-wireframe](documents/index-desktop.png)
 
-Desktop hints and tips page
+Desktop layout hints and tips page
 
 ![hints-wireframe](documents/hints-tips-desktop.png)
 
-Desktop form page
+Desktop layout form page
 
 ![form-wireframe](documents/form-desktop.png)
 
-Desktop thank you page
+Desktop layout thank you page
 
 ![thanks-wireframe](documents/thank-you-desktop.png)
+
+Mobile layout index page
+
 ![index-mobile-wireframe](documents/index-phone.png)
+
+Mobile layout hints page
+
 ![hints-mobile-wireframe](documents/hints-phone.png)
+
+Mobile layout forms page
+
 ![form-mobile-wireframe](documents/form-phone.png)
+Mobile layout thank you page
+
 ![thanks-mobile-wireframe](documents/thank-you-phone.png)
 - Wireframes were created on Balsamiq to show the basic layout of the website.
 - There are wireframes for both desktop and mobile views.
 - During development an additional intermediate size was developed for index and hints and tips page that contained the overlapping boxes of the desktop but the column layout of the mobile.
 - During development it was also decided that it was better to have the nav under the title so this was changed.
+- Development also lead to the decision to not do the box on the hints and tips page that said more were coming soon as the form wouldn't be generating information at this stage. The picture on the thank you page was also no longer required when it was only up for 10 seconds as it distracted from the message.
 
 #### Colour Design
 
@@ -115,7 +127,7 @@ All detected bugs were solved
 
 - Missing or deleted closing tags - all corrected (Hopefully).
 
-- Many attempts at code that needed mastery of the actions that it performed, like getting flex to put things where I wanted or appropriate sizing.
+- Many attempts at code that needed mastery of the actions that it performed, like getting flex to put things in appropriate sizing or order. As this was also a learning exercise these positions were used to greater understand the function, so went through phases that were not for final product.
 
 - Commit messages that could have followed best practise more completely.
 

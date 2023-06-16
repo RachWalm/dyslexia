@@ -6,7 +6,7 @@ General testing was performed throughout development to ensure that the coding w
 
 Responsiveness was tested using the Chrome extension Responsive Veiwer, the result of which is in README.md in the section responsiveness on different devices.
 
-My family Pat Walmsley and Sarah Walmsley and my partner Ian Harris used the website as typical user level participants. Pat Walmsley used a laptop and the browser xx. Sarah Walmsley used an ipad with Safari and Ian Harris used a google blah with xx.
+My family Pat Walmsley and Sarah Walmsley and my partner Ian Harris used the website as typical user level participants. Pat Walmsley used a laptop and the browser Chrome. Sarah Walmsley used an ipad with Safari and Ian Harris used a google blah with xx.
 
 ## Functions testing.
 
