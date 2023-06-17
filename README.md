@@ -134,6 +134,7 @@ Boxes in the main part of the page were hidden behind the footer, both text boxe
     .fill-background {
     min-height:60vh;
     margin-bottom:4em;
+    }
 
 Form didn't need to be filled (although did request correct types to be filled in) so could submit an empty of part filled form. Solution - Mentor reminded me of the HTML 'required' code in form items that need to be filled when I mentioned it to her that I still needed to do that. 
 
@@ -310,10 +311,53 @@ Thank you page
 - [Git](https://git-scm.com/) was used for the version control through Git Commit.
 - [GitHub](https://github.com/) was used to host the website.
 
+### Images/video and image production
+
+This project is for educational purposes and not commercial gain, therefore the images and videos have been used within their expressed purpose.
+
+Sites for images:
+
+- https://pixabay.com/
+- https://pxhere.com/
+- https://www.freepik.com/
+
+Images:
+
+- Logo image - https://pixabay.com/illustrations/brain-chain-health-idea-human-3446307/ Image by <a href="https://pixabay.com/users/quincecreative-1031690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3446307">3D Animation
+
+- Hero Image - https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph 
+<a href="https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph">Image by jannoon028</a> 
+
+- Index page center image of blindfolded girl reading - https://pxhere.com/en/photo/1041474 no attribution required
+
+- Hands image - https://pxhere.com/en/photo/1041474 no attribution required
+
+To get the images as I wanted them I used:
 
 https://www.resizepixel.com/
-lots of code institute and W3 pages
-you tube for video
+
+Video was taken from youtube 
+
+https://www.youtube.com/watch?v=y-OqesxoR1k
+
+I adapted the share embed function to have it start at 12 seconds after the music bit. 
+
+The code that is supplied by this function is 
+
+    iframe width="560" height="315" src="https://www.youtube.com/embed/y-OqesxoR1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+
+I wanted to start at 12 seconds and didn't want auto play etc. So this code was developed: 
+
+    iframe width="560" height="215" src="https://www.youtube.com/embed/y-OqesxoR1k?start=12" title="What dyslexia is like from Youtube video"
+
+### External links
+
+- External Link to The Dyslexia Association of London - https://www.dyslexialondon.org/
+
+- External Link to NHS page for Dyslexia - https://www.nhs.uk/conditions/dyslexia/
+
+- External Link to Checklists for Dyslexia - https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists
+
  ## Attributation
 
  *,
@@ -324,23 +368,11 @@ you tube for video
   padding: 0;
 }
 
-This project is for educational purposes and not commercial gain, therefore the images and videos have been used within their expressed purpose.
-
 Significant inspiration and learning for this project was from my mentor showing me things in her repository.
 
-https://pxhere.com/en/photo/1041474
-<a href="https://www.freepik.com/free-photo/open-book-grass_966471.htm#query=books&position=0&from_view=search&track=sph">Image by jannoon028</a> on Freepik
-https://pixabay.com/illustrations/brain-chain-health-idea-human-3446307/ Image by <a href="https://pixabay.com/users/quincecreative-1031690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3446307">3D Animation
+lots of code institute and W3 pages
 
-utube video
-
-https://www.dyslexialondon.org/
-https://www.nhs.uk/conditions/dyslexia/
-https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists
-
-google fonts
-
-Icons if used
+Love running font awsome taken from love running that I did copying.
 
 ## Acknowledgements
 
@@ -352,18 +384,43 @@ My Partner - Ian Harris who has been extremely supportive while I have been work
 
 Code institute - For all the information and learning that I have done that contributed to this website. 
 
-Love running font awsome taken from love running that I did copying.
-
 ## Features
 ### Existing Features
-Every page will have navigation to the other pages in the header and links to other external resources in the footer.
-The landing page provides links to other pages to make it apparent what the site can be used for, explaining the purpose of the site. It also has a navigation bar in the top and links to internal pages in the main section to aid movement around the site.
+Every page has the logo, title and hero books on grass image to introduce the user to the website. 
 
-The next page is a page for people to see what dyslexia is like and provides solutions to some common experiences. This page has video in the center that gives some idea of how difficult it is to read as a dyslexic.
+There is navigation to the other pages in the header and links to other external resources in the footer. This allows the user to find the resources they want easily.
 
-There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow. This part of the site is purposefully not a nice color or easy to read to show that this what dyslexics experience.
+Header
 
-Form to submit
+![header](documents/header.png)
+
+Footer
+
+![footer](documents/footer.png)
+
+The landing page provides boxes explaining the areas that might be of interest to the user and links to other pages on the site to make it apparent what the site can be used for and explaining the purpose of the site. It has a navigation bar in the top and links to internal pages in the main section to aid movement around the site.
+
+![index](documents/index-1280x800.png)
+
+The next page is a page for people to see what dyslexia is like and provides solutions to some common experiences. 
+
+![hints](documents/hints-1280x800.png)
+
+The hints page has video in the center that gives some idea of how difficult it is to read as a dyslexic. This should be useful visual for the user to understand dyslexia easily.
+
+There is also a box that changes color to give people some idea how blue can be a calming color to read against as opposed to glaring white or yellow. This part of the site is purposefully not a nice/easy to read color to show that this what dyslexics experience.
+
+There is a box that contains a list that you can scroll through to point out that dyslexia makes short term memory difficult. This will allow the user to associate with any short term memory issues.
+
+The remaining text on the page is descriptions or solutions with icons or images to help the user identify with the text.
+
+The third page is a form to submit your hints and experiences page requires you to enter your name and e-mail, has a box to give permission for contact to be made with the person by the site and a text box so that they can write about their experiences and tips. The submit button then takes you to a thank you page. This will make users feel included and allow useful user feedback which can be incorporated to improve user experience when it stores the data.
+
+![form](documents/form-1280x800.png)
+
+The thank you page should be displayed for 10 seconds then return you to the index page assuming you haven't already clicked a link. This allows the user to know that their form has been submitted.
+
+![thanks](documents/thank-1280x800.png)
 
 ### Features Left to Implement
 
@@ -380,6 +437,3 @@ Error page that provides a 404 error with sites header and footer built in.
 Consistent and more frequent commit messages that are in the correct format for future commits.
 
 Youtube video to go back to the start not continue to other content.
-
-### Links
-### Functions

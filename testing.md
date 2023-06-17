@@ -12,6 +12,10 @@ Pat Walmsley suggested to alternative wording and text positioning and size chan
 
 Sarah Walmsley and Ian Harris did not report any bugs.
 
+## Validators
+
+## Accessiblity through light house
+
 ## Functions testing.
 
 Tested function on Chrome/Safari/Edge/Firefox following the table below:
