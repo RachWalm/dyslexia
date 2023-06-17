@@ -22,8 +22,15 @@ HTML Validator
 
 - Form page 
 
+![Form-validate](documents/form-validate.png)
+
 - Thank you page
 
+![Thanks-validate](documents/thanks-validate.png)
+
+CSS validator
+
+![CSS-validator](documents/css-validate.png)
 
 ## Accessiblity through light house
 
