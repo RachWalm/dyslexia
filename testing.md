@@ -18,6 +18,11 @@ HTML Validator
 
 - Index
 
+- Hints page
+
+- Form page 
+
+- Thank you page
 
 
 ## Accessiblity through light house
