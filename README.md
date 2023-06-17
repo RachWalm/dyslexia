@@ -67,6 +67,7 @@ Mobile layout forms page
 Mobile layout thank you page
 
 ![thanks-mobile-wireframe](documents/thank-you-phone.png)
+
 - Wireframes were created on Balsamiq to show the basic layout of the website.
 - There are wireframes for both desktop and mobile views.
 - During development an additional intermediate size was developed for index and hints and tips page that contained the overlapping boxes of the desktop but the column layout of the mobile.
@@ -103,19 +104,60 @@ The external links to other resources need to be monitored to ensure that they a
 
 ## Bugs
 
-Initially boxes that contained the text in the main part of the pages index and hints and tips were positioned with relation to each other using 
+### Development bugs
 
-Due to learning flex as I built the site there was a lot of positioning bugs that were fixed as I figured out how all the functions worked (or didn't do as I expected).
+Initially boxes that contained the text in the main part of the pages index and hints and tips were positioned with relation to each other using the CSS function translate:transform(x,y). However, as this was less practical for responsiveness the soultions was to use relative positions instead. 
 
-White line appeared under the hero image and before the background of the main text. Solution - hero image and area containing hero image were diffent sizes and needed to be synchronised.
+Due to learning flex as I built the site there was a lot of positioning bugs that were fixed as I figured out how all the functions worked (or didn't do as I expected). So I won't detail all the learning process here.
 
-White line at bottom of page
+Hero image didn't extend across the whole page on certain devices. Solution - use object-fit:cover to ensure that 
 
-Form didn't need to be filled (although did request correct types to be filled in) so could submit an empty of part filled form. Solution - Mentor reminded me of the 'required' code when I mentioned it to her. 
+White line appeared under the hero image and before the background of the main text. Solution - hero image and area containing hero image were diffent sizes and needed to be synchronised. These are now both 200px.
+    
+    #hero-outer {
+     height:200px;
+     object-fit: cover;
+     width:100%;
+    }
 
-Boxes in the main part of the page were hidden behind the footer. Solution
+    #hero {
+     height:200px;
+     width:100%;
+     overflow:hidden;
+     object-fit:cover;
+    }
 
-translate transform to absolute positioning and flex.
+White line at bottom of page, was fixed by using a margin function at the bottom of the main section so that the footer area covered the white line.
+
+Boxes in the main part of the page were hidden behind the footer, both text boxes and the submit button on the form. The solution to this was also using a margin at the bottom of the main section.
+
+    .fill-background {
+    min-height:60vh;
+    margin-bottom:4em;
+
+Form didn't need to be filled (although did request correct types to be filled in) so could submit an empty of part filled form. Solution - Mentor reminded me of the HTML 'required' code in form items that need to be filled when I mentioned it to her that I still needed to do that. 
+
+When my mentor tried the website on her system it was not centering. As I had developed it on my screens and using the chrome developer tools that did not use 1920 x 1080 px size in the standard ones set I couldn't see this the first time it was mentioned. But once I realised the screen size difference and put that specific size into the chrome developer tools I could understand the problem and used the code she discussed to correct it.
+
+    body {
+     font-family: Jost, sans-serif;
+     display:flex;
+     align-items:center;
+     width:100%;
+     flex-direction: column;
+    }
+
+    .column {
+     display:flex;
+     justify-content: space-around;
+     padding: 25px;
+     width:100%;
+     max-width:85rem;
+    }
+
+This centered the code and put a white area down the sides on larger screens. As there is a white banner behind the title and logo so the colour didn't look out of place and it spaced unattractively if the screen was too large and entirely filled it with the current content. After trying a few options, it was decided the white columns down the side were acceptable vs the time to do serious redesign.
+
+It was realised that the color change for the hover function would not work on touch screen. Solution - to include text to ask user to touch the box instead of hover so that the functionality still worked. 
 
 ### Unsolved bugs
 
@@ -141,11 +183,9 @@ The site was deployed to GitHub pages. It was deployed by the following actions:
 
 Here is the [link](https://rachwalm.github.io/dyslexia/index.html) to the deployed page.
 
-### Links
-### Functions
 ### Responsiveness on different devices
 
-Devices sizes checked using developer tools chrom extension for responsive viewer.
+Devices sizes checked using developer tools chrome extension for responsive viewer.
 
 Index page
 
@@ -341,3 +381,5 @@ Consistent and more frequent commit messages that are in the correct format for 
 
 Youtube video to go back to the start not continue to other content.
 
+### Links
+### Functions
