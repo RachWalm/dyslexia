@@ -14,6 +14,12 @@ Sarah Walmsley and Ian Harris did not report any bugs.
 
 ## Validators
 
+HTML Validator
+
+- Index
+
+
+
 ## Accessiblity through light house
 
 ## Functions testing.

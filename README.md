@@ -437,3 +437,7 @@ Error page that provides a 404 error with sites header and footer built in.
 Consistent and more frequent commit messages that are in the correct format for future commits.
 
 Youtube video to go back to the start not continue to other content.
+
+## Testing
+
+For testing including validators and accessibility see [Testing](testing.md)
