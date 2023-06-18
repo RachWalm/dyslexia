@@ -350,6 +350,22 @@ I wanted to start at 12 seconds and didn't want auto play etc. So this code was 
 
     iframe width="560" height="215" src="https://www.youtube.com/embed/y-OqesxoR1k?start=12" title="What dyslexia is like from Youtube video"
 
+## Web resources used
+
+[Chrome-DevTools](https://developer.chrome.com/docs/devtools/) were extremely useful for trying out different code without affecting my core code and particularly when working on responsiveness.
+
+[Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) was used to run the checks for performance and accessibility.
+
+[HTML-md-validator](https://validator.w3.org/) was used to validate the HTML.
+
+[CSS-validator](https://jigsaw.w3.org/css-validator/) was used to perform the CSS validation.
+
+The first image in my README.md was a screenshot from [AmIResponsive](https://amiresponsive.co.uk/).
+
+The pallet for the colors for the overall look of the website were generated using https://coolors.co/
+
+Icons were taken from [font-awesome](https://fontawesome.com/).
+
 ### External links
 
 - External Link to The Dyslexia Association of London - https://www.dyslexialondon.org/
@@ -360,19 +376,48 @@ I wanted to start at 12 seconds and didn't want auto play etc. So this code was 
 
  ## Attributation
 
- *,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+The code at the start of the CSS file was discussed with my mentor as a necessary addition.
+
+    *,
+    *::before,
+    *::after {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+    }
+
+We also discussed requirement for the 'meta' information in the HTML files. So this was based on the love running project from the code institute course content and on the discussions with my mentor.
+
+My flexbox was developed from three sources: 
+- https://www.w3schools.com/css/css3_flexbox.asp
+- https://www.youtube.com/watch?v=V9yP0QG0NWI&ab_channel=KevinPowell
+- https://flexboxfroggy.com/
+
+A great deal of support with my learning of flex was also provided by my mentor who showed me how certain peices of code would affect the site. 
+
+I learnt a great deal about mark down from:
+https://www.markdownguide.org/basic-syntax which was recommended by my mentor.
 
 Significant inspiration and learning for this project was from my mentor showing me things in her repository.
 
-lots of code institute and W3 pages
+My mentor also showed me the difference between using specific heights in px and how beneficial the use of 'min-height' and reminded me of the 'vh' terminology.
 
-Love running font awsome taken from love running that I did copying.
+I also worked with my mentor on getting the image and background completely go across all screens with the 'object-fit:cover;' function.
+
+My mentor did give me the code to send my thank you page back to the index in 10 seconds and I inserted the below code into the appropriate part of the page.
+
+    <meta http-equiv="refresh" content="10; url=index.html">
+
+I checked a lot of the code institute course material to remind myself of how to do certain things.
+
+[W3](https://www.w3schools.com/html/default.asp) was of great use to me for checking the syntax of certain functions when I had errors (mostly spaces or typos).
+
+I took the below directly from the love running exercise in the code institute course work as this is the link to my kit.
+
+    <script src="https://kit.fontawesome.com/70e8ec8636.js" crossorigin="anonymous"></script>
+
+All the links to the icons from font awesome were copied from the appropriate place for that icon on the [font-awesome](https://fontawesome.com/) website.
+
 
 ## Acknowledgements
 
