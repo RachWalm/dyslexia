@@ -18,7 +18,11 @@ HTML Validator
 
 - Index
 
+![index-validate](documents/index-validate.png)
+
 - Hints page
+
+![Hints-validate](documents/hints-validate)
 
 - Form page 
 
