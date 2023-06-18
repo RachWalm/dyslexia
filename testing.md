@@ -22,7 +22,7 @@ HTML Validator
 
 - Hints page
 
-![Hints-validate](documents/hints-validate)
+![Hints-validate](documents/hints-validate.png)
 
 - Form page 
 
@@ -36,7 +36,23 @@ CSS validator
 
 ![CSS-validator](documents/css-validate.png)
 
-## Accessiblity through light house
+## Accessiblity 
+
+- Index
+
+![index-access](documents/index-access.png)
+
+- Hints page
+
+![Hints-access](documents/hints-access.png)
+
+- Form page 
+
+![Form-access](documents/form-access.png)
+
+- Thank you page
+
+![Thanks-access](documents/thanks-access.png)
 
 ## Functions testing.
 
