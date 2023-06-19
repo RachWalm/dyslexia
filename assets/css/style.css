@@ -14,9 +14,6 @@ body {
     align-items: center;
     width: 100%;
     flex-direction: column;
-}
-
-main {
     background-color: #DDF8D7;
     width: 100%;
 }
@@ -26,6 +23,10 @@ a:hover {
 }
 
 /*header*/
+
+header {
+    background-color: white !important;
+}
 
 .header-columns {
     display: flex;
