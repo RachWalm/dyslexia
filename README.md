@@ -91,7 +91,7 @@ The colours for this project were decided by two factors:
 
  #### Font 
 
- The font also had to be chosen to be accessible to dyslexics. The straighter the lines in the font the easier it is to read for a dylexic. Therefore it had to be san-serif in nature as the serif adds to the complexity of the letters. Also avoiding letters that have curly lower case y's etc.
+ The font also had to be chosen to be accessible to dyslexics. The straighter the lines in the font the easier it is to read for a dyslexic. Therefore it had to be san-serif in nature as the serif adds to the complexity of the letters. Also avoiding letters that have curly lower case y's etc.
 
  Also only one font was used to reduce the complexity for the reader.
 
