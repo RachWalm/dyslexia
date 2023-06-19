@@ -85,7 +85,7 @@ The colours for this project were decided by two factors:
 
  Also only one font was used to reduce the complexity for the reader.
 
- Google font Jost weight 300 was used to match these criteria.
+ Google font Jost weight 300 was used to match these criteria. The only problem with this font is that the shape of the "c" although following dyslexia criteria does look like it has been cut off in the title rather than that is the shape it is meant to be.
 
  ![Font](documents/font-jost-light-300.png)
 
