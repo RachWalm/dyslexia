@@ -23,7 +23,6 @@ a:hover {
 }
 
 /*header*/
-
 header {
     background-color: white !important;
 }
@@ -36,7 +35,6 @@ header {
 }
 
 /*page text sizes*/
-
 h1 {
     font-size: 350%;
     letter-spacing: 4px;
@@ -47,7 +45,6 @@ h2 {
 }
 
 /*header nav*/
-
 #header-nav {
     display: flex;
     width: 100%;
@@ -66,7 +63,6 @@ h2 {
 }
 
 /* hero image*/
-
 #hero-outer {
     height: 200px;
     object-fit: cover;
@@ -81,7 +77,6 @@ h2 {
 }
 
 /*main section of page layout*/
-
 .fill-background {
     min-height: 60vh;
     margin-bottom: 4em;
@@ -100,7 +95,6 @@ h2 {
 }
 
 /*individual box positions with relation to each other*/
-
 .top-left-infront {
     position: relative;
     top: -30px;
@@ -139,7 +133,6 @@ h2 {
 }
 
 /*box borders and styling*/
-
 .box-outline {
     border: 1px solid black;
     border-radius: 5%;
@@ -158,7 +151,6 @@ h2 {
 }
 
 /*function on hints and tips page*/
-
 .yellow-change:hover {
     background-color: #f7f700;
 }
@@ -170,7 +162,6 @@ h2 {
 }
 
 /*form page*/
-
 .form-background {
     display: flex;
     flex-direction: column;
@@ -220,7 +211,6 @@ h2 {
 }
 
 /*footer*/
-
 footer {
     display: flex;
     align-items: center;
@@ -242,7 +232,6 @@ footer {
 }
 
 /*Media Query*/
-
 @media screen and (max-width:1270px) {
     .column {
         display: flex;
