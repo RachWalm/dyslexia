@@ -122,11 +122,78 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Hover over "Hints/Tips and What it is like" nav link |Chrome|Thank you page |Text enlargens |Pass|Tested with 10 second redirect disabled
 |Hover over "Your experiences" nav link|Chrome|Thank you page |Text enlargens |Pass|Tested with 10 second redirect disabled
 |Main section|Chrome|Thank you page|
-|Page should return to index after 10 seconds|Chrome|Thank you page|Page should return to index after 10 seconds
+|Page should return to index after 10 seconds|Chrome|Thank you page|Page should return to index after 10 seconds|Pass
 |Footer|Chrome|Thank you page|
 |Click link in footer for dyslexia association |Chrome|Thank you page |Loads dyslexia association website in new window|Pass|Tested with 10 second redirect disabled
 |Click link in footer for NHS |Chrome|Thank you page |Loads NHS website in new window|Pass|Tested with 10 second redirect disabled
 |Click link in footer for checklist |Chrome|Thank you page |Loads external checklist page in new window|Pass|Tested with 10 second redirect disabled
+|Load from url by typing url|Safari|None |Index page loads|Pass | |
+|Index page looks as intended visually|Safari|Index|Index page looks as intended|Pass
+|Nav bar|Safari|Index||||
+|Click "Home" nav link |Safari|Index |Remains on Index screen|Pass
+|Click "Hints/Tips and What it is like" nav link |Safari|Index |Loads Hints and tips page|Pass
+|Click "Your experiences" nav link|Safari|Index | Loads form page|Pass
+|Hover over "Home" nav link|Safari|Index | Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Hints/Tips and What it is like" nav link |Safari|Index |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Your experiences" nav link|Safari|Index |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Main section|Safari|Index|
+|Click link in first duo box |Safari|Index|Loads Hints and tips page|Pass
+|Click link in second duo box |Safari|Index |Loads external checklist page in new window|Pass
+|Click link in third duo box |Safari|Index |Loads Hints and tips page|Pass
+|Click link in forth duo box |Safari|Index |Loads form page|Pass
+|Footer|Safari|Index|
+|Click link in footer for dyslexia association |Safari|Index |Loads dyslexia association website in new window|Pass
+|Click link in footer for NHS |Safari|Index |Loads NHS website in new window|Pass
+|Click link in footer for checklist |Safari|Index |Loads external checklist page in new window|Pass
+|Hints page page looks as intended visually|Safari|Hints page|Hints page page looks as intended|Pass
+|Nav bar|Safari|Hints page||||
+|Click "Home" nav link |Safari|Hints page |Loads index page|
+|Click "Hints/Tips and What it is like" nav link |Safari|Hints page |Remains on hints page|
+|Click "Your experiences" nav link|Safari|Hints page |Loads form page|
+|Hover over "Home" nav link|Safari|Hints page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Hints/Tips and What it is like" nav link |Safari|Hints page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Your experiences" nav link|Safari|Hints page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Main section|Safari|Hints page|
+|Blue to Yellow color change| Safari|Hints page|When hovered or tapped color changes correctly
+|Scroll works in top right box|Safari|Hints page|Can scroll through list|
+|You tube video|Safari|Hints page|Plays only on request as an embedded video|
+|Footer|Safari|Hints page|
+|Click link in footer for dyslexia association |Safari|Hints page |Loads dyslexia association website in new window|
+|Click link in footer for NHS |Safari|Hints page |Loads NHS website in new window|
+|Click link in footer for checklist |Safari|Hints page |Loads external checklist page in new window|
+|Form page page looks as intended visually|Safari|Form page|Form page page looks as intended
+|Nav bar|Safari|Form page||||
+|Click "Home" nav link |Safari|Form page |Loads index page|
+|Click "Hints/Tips and What it is like" nav link |Safari|Form page |Loads Hints and tips page|
+|Click "Your experiences" nav link|Safari|Form page |Remains on form page|
+|Hover over "Home" nav link|Safari|Form page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Hints/Tips and What it is like" nav link |Safari|Form page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Your experiences" nav link|Safari|Form page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Main section|Safari|Form page|
+|First name input|Safari |Form page| Takes name input and produces error if attempt to submit empty|
+|Last name input|Safari |Form page| Takes name input and produces error if attempt to submit empty|
+|Email input|Safari|Form page| Will only accept text of email format and produces error if attempt to submit empty|
+|Contact permission box| Safari|Form page|Can be empty or filled. Try both. 
+|Footer|Safari|Form page|
+|Text area|Safari|Form page|Text can be added and must be added or produces error|
+|Submit button|Safari|Form page|If required sections are filled takes you to thank you page|
+|Click link in footer for dyslexia association |Safari|Form page |Loads dyslexia association website in new window|
+|Click link in footer for NHS |Safari|Form page |Loads NHS website in new window|
+|Click link in footer for checklist |Safari|Form page |Loads external checklist page in new window|
+|Thank you page page looks as intended visually|Safari|Thank you page|Thank you page page looks as intended
+|Nav bar|Safari|Thank you page||||
+|Click "Home" nav link |Safari|Thank you page |Loads index page|
+|Click "Hints/Tips and What it is like" nav link |Safari|Thank you page |Loads Hints and tips page|
+|Click "Your experiences" nav link|Safari|Thank you page |Loads form page|
+|Hover over "Home" nav link|Safari|Thank you page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Hints/Tips and What it is like" nav link |Safari|Thank you page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over "Your experiences" nav link|Safari|Thank you page |Text enlargens |
+|Main section|Safari|Thank you page|N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Page should return to index after 10 seconds|Safari|Thank you page|Page should return to index after 10 seconds
+|Footer|Safari|Thank you page|
+|Click link in footer for dyslexia association |Safari|Thank you page |Loads dyslexia association website in new window|
+|Click link in footer for NHS |Safari|Thank you page |Loads NHS website in new window|
+|Click link in footer for checklist |Safari|Thank you page |Loads external checklist page in new window|
 
 |Load from url by typing url|Chrome|None |Index page loads| | |
 |Index page looks as intended visually|Chrome|Index|Index page looks as intended
