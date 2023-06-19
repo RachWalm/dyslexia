@@ -40,7 +40,7 @@ h1 {
     letter-spacing: 4px;
 }
 
-h2 {
+.hidden {
     visibility: hidden;
 }
 
@@ -208,6 +208,16 @@ h2 {
 .submit {
     margin-bottom: 100px;
     cursor: pointer;
+}
+
+/*Thank you page*/
+.thank {
+    display: flex;
+    flex-direction: column;
+    min-height: 65vh;
+    width: 100%;
+    max-width: 85rem;
+    vertical-align: top;
 }
 
 /*footer*/

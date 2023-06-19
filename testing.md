@@ -18,7 +18,7 @@ This testing team covered a variety of device compatibilities, browsers and abil
 
 Devices sizes checked using developer tools chrome extension for responsive viewer.
 
-Index page
+### Index page
 
 [Galaxy-S9-Note-8-S8-360x740](documents/index-360x740.png)
 
@@ -46,7 +46,7 @@ Index page
 
 [Large-monitor-1920x1080](documents/index-1920x1080.png)
 
-Hints and tips and what it is like page
+### Hints and tips and what it is like page
 
 [Galaxy-S9-Note-8-S8-360x740](documents/hints-360x740.png)
 
@@ -74,7 +74,7 @@ Hints and tips and what it is like page
 
 [Large-monitor-1920x1080](documents/hints-1920x1080.png)
 
-Form page
+### Form page
 
 [Galaxy-S9-Note-8-S8-360x740](documents/form-360x740.png)
 
@@ -102,7 +102,7 @@ Form page
 
 [Large-monitor-1920x1080](documents/form-1920x1080.png)
 
-Thank you page
+### Thank you page
 
 [Galaxy-S9-Note-8-S8-360x740](documents/thank-360x740.png)
 
