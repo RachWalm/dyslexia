@@ -332,7 +332,7 @@ Images:
 
 - Hands image - https://pxhere.com/en/photo/1041474 no attribution required
 
-To get the images as I wanted them I used:
+To get the images cropped and to the correct size that was required the website used was:
 
 https://www.resizepixel.com/
 
@@ -340,13 +340,13 @@ Video was taken from youtube
 
 https://www.youtube.com/watch?v=y-OqesxoR1k
 
-I adapted the share embed function to have it start at 12 seconds after the introduction music was complete. 
+The provided code from youtube for the share and embed function to have it start at 12 seconds after the introduction music was complete was adapted. 
 
-The code that is supplied by this function is 
+The code that is supplied for this function is on youtube is:
 
     iframe width="560" height="315" src="https://www.youtube.com/embed/y-OqesxoR1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
 
-I wanted to start at 12 seconds and didn't want auto play etc. So this code was developed: 
+It would be best to start at 12 seconds and not auto play etc. So this code was developed: 
 
     iframe width="560" height="215" src="https://www.youtube.com/embed/y-OqesxoR1k?start=12" title="What dyslexia is like from Youtube video"
 
@@ -360,7 +360,7 @@ I wanted to start at 12 seconds and didn't want auto play etc. So this code was 
 
 [CSS-validator](https://jigsaw.w3.org/css-validator/) was used to perform the CSS validation.
 
-The first image in my README.md was a screenshot from [AmIResponsive](https://amiresponsive.co.uk/).
+The first image in the README.md was a screenshot from [AmIResponsive](https://amiresponsive.co.uk/).
 
 The pallet for the colors for the overall look of the website were generated using https://coolors.co/
 
@@ -395,7 +395,8 @@ My flexbox was developed from three sources:
 
 A great deal of support with my learning of flex was also provided by my mentor who showed me how certain peices of code would affect the site. 
 
-I learnt a great deal about mark down from:
+I learnt a great deal about mark down and based the creation of the readme on the syntax discussed in:
+
 https://www.markdownguide.org/basic-syntax which was recommended by my mentor.
 
 Significant inspiration and learning for this project was from my mentor showing me things in her repository.
@@ -412,7 +413,7 @@ I checked a lot of the code institute course material to remind myself of how to
 
 [W3](https://www.w3schools.com/html/default.asp) was of great use to me for checking the syntax of certain functions when I had errors (mostly spaces or typos).
 
-I took the below directly from the love running exercise in the code institute course work as this is the link to my kit.
+The below was taken directly from the love running exercise in the code institute course work as this is the link to my kit.
 
     <script src="https://kit.fontawesome.com/70e8ec8636.js" crossorigin="anonymous"></script>
 
