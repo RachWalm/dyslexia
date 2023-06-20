@@ -28,7 +28,7 @@ Devices sizes checked using developer tools chrome extension for responsive view
 
 [iPad-Mini-768x1024](documents/index-768x1024.png)
 
-[iPad-Pro-(12.9-inch)-1024x1366](documents/index-1024x800.png)
+[iPad-Pro-(12.9-inch)-1024x1366](documents/index-1024x1366.png)
 
 [iPhone-XR-XS-Max-414x896](documents/index-414x896.png)
 
@@ -186,9 +186,7 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click "Home" nav link |Chrome|Index |Remains on Index screen|Pass
 |Click "Hints/Tips and What it is like" nav link |Chrome|Index |Loads Hints and tips page|Pass
 |Click "Your experiences" nav link|Chrome|Index | Loads form page|Pass
-|Hover over "Home" nav link|Chrome|Index | Text enlargens |Pass
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Index |Text enlargens |Pass
-|Hover over "Your experiences" nav link|Chrome|Index |Text enlargens |Pass
+|Hover over each link - nav, boxes and footer|Chrome|Index | Text turns green |Pass
 |Main section|Chrome|Index|
 |Click link in top left box |Chrome|Index|Loads Hints and tips page|Pass
 |Click link in bottom left box |Chrome|Index |Loads external checklist page in new window|Pass
@@ -203,9 +201,7 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click "Home" nav link |Chrome|Hints page |Loads index page|Pass
 |Click "Hints/Tips and What it is like" nav link |Chrome|Hints page |Remains on hints page|Pass
 |Click "Your experiences" nav link|Chrome|Hints page |Loads form page|Pass
-|Hover over "Home" nav link|Chrome|Hints page |Text enlargens |Pass
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Hints page |Text enlargens |Pass| 
-|Hover over "Your experiences" nav link|Chrome|Hints page |Text enlargens |Pass
+|Hover over each link - nav and footer|Chrome|Hints page |Text turns green |Pass
 |Main section|Chrome|Hints page|
 |Blue to Yellow color change| Chrome|Hints page|When hovered or tapped color changes correctly|Pass|Mouse hover and touch screen on laptop activates color change. Click elsewhere to return to blue
 |Scroll works in top right box|Chrome|Hints page|Can scroll through list|Pass
@@ -216,18 +212,17 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click link in footer for checklist |Chrome|Hints page |Loads external checklist page in new window|Pass
 |Form page page looks as intended visually|Chrome|Form page|Form page page looks as intended|Pass
 |Nav bar|Chrome|Form page||||
-|Click "Home" nav link |Chrome|Form page |Loads index page|Pass
+|Click each link - nav and footer |Chrome|Form page |Loads index page|Pass
 |Click "Hints/Tips and What it is like" nav link |Chrome|Form page |Loads Hints and tips page|Pass
 |Click "Your experiences" nav link|Chrome|Form page |Remains on form page|Pass
-|Hover over "Home" nav link|Chrome|Form page |Text enlargens |Pass
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Form page |Text enlargens |Pass
-|Hover over "Your experiences" nav link|Chrome|Form page |Text enlargens |Pass
+|Hover over each link - nav and footer|Chrome|Form page |Text turns green|Pass
 |Main section|Chrome|Form page|
 |First name input|Chrome |Form page| Takes name input and produces error if attempt to submit empty|Pass
 |Last name input|Chrome |Form page| Takes name input and produces error if attempt to submit empty|Pass
 |Email input|Chrome|Form page| Will only accept text of email format and produces error if attempt to submit empty|Pass|
 |Contact permission box| Chrome|Form page|Can be empty or filled. Try both. |Pass| Will submit with the box filled or not
 |Text area|Chrome|Form page|Text can be added and must be added or produces error|Pass
+|Submit button hover|Safari|Form page|No hover in Safari|Pass
 |Submit button|Chrome|Form page|If required sections are filled takes you to thank you page|Pass
 |Footer|Chrome|Form page|
 |Click link in footer for dyslexia association |Chrome|Form page |Loads dyslexia association website in new window|Pass
@@ -238,9 +233,7 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click "Home" nav link |Chrome|Thank you page |Loads index page|Pass|Tested with 10 second redirect disabled
 |Click "Hints/Tips and What it is like" nav link |Chrome|Thank you page |Loads Hints and tips page|Pass|Tested with 10 second redirect disabled
 |Click "Your experiences" nav link|Chrome|Thank you page |Loads form page|Pass|Tested with 10 second redirect disabled
-|Hover over "Home" nav link|Chrome|Thank you page |Text enlargens |Pass|Tested with 10 second redirect disabled
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Thank you page |Text enlargens |Pass|Tested with 10 second redirect disabled
-|Hover over "Your experiences" nav link|Chrome|Thank you page |Text enlargens |Pass|Tested with 10 second redirect disabled
+|Hover over each link - nav and footer|Chrome|Thank you page |Text turns green|Pass|Tested with 10 second redirect disabled
 |Main section|Chrome|Thank you page|
 |Page should return to index after 10 seconds|Chrome|Thank you page|Page should return to index after 10 seconds|Pass
 |Footer|Chrome|Thank you page|
@@ -253,9 +246,7 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click "Home" nav link |Safari|Index |Remains on Index screen|Pass
 |Click "Hints/Tips and What it is like" nav link |Safari|Index |Loads Hints and tips page|Pass
 |Click "Your experiences" nav link|Safari|Index | Loads form page|Pass
-|Hover over "Home" nav link|Safari|Index | Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Hints/Tips and What it is like" nav link |Safari|Index |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Your experiences" nav link|Safari|Index |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Hover over each link - nav, boxes and footer|Safari|Index | No hover on Safari |N/A|Function not anticipated to work on touch screen phone
 |Main section|Safari|Index|
 |Click link in first duo box |Safari|Index|Loads Hints and tips page|Pass
 |Click link in second duo box |Safari|Index |Loads external checklist page in new window|Pass
@@ -267,118 +258,44 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click link in footer for checklist |Safari|Index |Loads external checklist page in new window|Pass
 |Hints page page looks as intended visually|Safari|Hints page|Hints page page looks as intended|Pass
 |Nav bar|Safari|Hints page||||
-|Click "Home" nav link |Safari|Hints page |Loads index page|
-|Click "Hints/Tips and What it is like" nav link |Safari|Hints page |Remains on hints page|
-|Click "Your experiences" nav link|Safari|Hints page |Loads form page|
-|Hover over "Home" nav link|Safari|Hints page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Hints/Tips and What it is like" nav link |Safari|Hints page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Your experiences" nav link|Safari|Hints page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Click "Home" nav link |Safari|Hints page |Loads index page|Pass
+|Click "Hints/Tips and What it is like" nav link |Safari|Hints page |Remains on hints page|Pass
+|Click "Your experiences" nav link|Safari|Hints page |Loads form page|Pass
+|Hover over each link - nav and footer |Safari|Hints page |No hover on Safari |N/A|Function not anticipated to work on touch screen phone 
 |Main section|Safari|Hints page|
-|Blue to Yellow color change| Safari|Hints page|When hovered or tapped color changes correctly
-|Scroll works in top right box|Safari|Hints page|Can scroll through list|
-|You tube video|Safari|Hints page|Plays only on request as an embedded video|
+|Blue to Yellow color change| Safari|Hints page|When hovered or tapped color changes correctly|Pass
+|Scroll works in box after video|Safari|Hints page|Can scroll through list|Pass
+|You tube video|Safari|Hints page|Plays only on request as an embedded video|Pass
 |Footer|Safari|Hints page|
-|Click link in footer for dyslexia association |Safari|Hints page |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Safari|Hints page |Loads NHS website in new window|
-|Click link in footer for checklist |Safari|Hints page |Loads external checklist page in new window|
-|Form page page looks as intended visually|Safari|Form page|Form page page looks as intended
+|Click link in footer for dyslexia association |Safari|Hints page |Loads dyslexia association website in new window|Pass
+|Click link in footer for NHS |Safari|Hints page |Loads NHS website in new window|Pass
+|Click link in footer for checklist |Safari|Hints page |Loads external checklist page in new window|Pass
+|Form page page looks as intended visually|Safari|Form page|Form page page looks as intended|Pass
 |Nav bar|Safari|Form page||||
 |Click "Home" nav link |Safari|Form page |Loads index page|
-|Click "Hints/Tips and What it is like" nav link |Safari|Form page |Loads Hints and tips page|
-|Click "Your experiences" nav link|Safari|Form page |Remains on form page|
-|Hover over "Home" nav link|Safari|Form page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Hints/Tips and What it is like" nav link |Safari|Form page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Your experiences" nav link|Safari|Form page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Click "Hints/Tips and What it is like" nav link |Safari|Form page |Loads Hints and tips page|Pass
+|Click "Your experiences" nav link|Safari|Form page |Remains on form page|Pass
+|Hover over each link - nav and footer|Safari|Form page |No hover on Safari |N/A|Function not anticipated to work on touch screen phone 
 |Main section|Safari|Form page|
-|First name input|Safari |Form page| Takes name input and produces error if attempt to submit empty|
-|Last name input|Safari |Form page| Takes name input and produces error if attempt to submit empty|
-|Email input|Safari|Form page| Will only accept text of email format and produces error if attempt to submit empty|
-|Contact permission box| Safari|Form page|Can be empty or filled. Try both. 
+|First name input|Safari |Form page| Takes name input and produces error if attempt to submit empty|Pass
+|Last name input|Safari |Form page| Takes name input and produces error if attempt to submit empty|Pass
+|Email input|Safari|Form page| Will only accept text of email format and produces error if attempt to submit empty|Pass
+|Contact permission box| Safari|Form page|Can be empty or filled. Try both.|Pass
+|Text area|Safari|Form page|Text can be added and must be added or produces error|Pass
+|Submit button hover|Safari|Form page|No hover in Safari|N/A|Function not anticipated to work on touch screen phone
+|Submit button|Safari|Form page|If required sections are filled takes you to thank you page|Pass
 |Footer|Safari|Form page|
-|Text area|Safari|Form page|Text can be added and must be added or produces error|
-|Submit button|Safari|Form page|If required sections are filled takes you to thank you page|
-|Click link in footer for dyslexia association |Safari|Form page |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Safari|Form page |Loads NHS website in new window|
-|Click link in footer for checklist |Safari|Form page |Loads external checklist page in new window|
-|Thank you page page looks as intended visually|Safari|Thank you page|Thank you page page looks as intended
+|Click link in footer for dyslexia association |Safari|Form page |Loads dyslexia association website in new window|Pass
+|Click link in footer for NHS |Safari|Form page |Loads NHS website in new window|Pass
+|Click link in footer for checklist |Safari|Form page |Loads external checklist page in new window|Pass
+|Thank you page page looks as intended visually|Safari|Thank you page|Thank you page page looks as intended|Pass|Tested with 10 second redirect disabled
 |Nav bar|Safari|Thank you page||||
-|Click "Home" nav link |Safari|Thank you page |Loads index page|
-|Click "Hints/Tips and What it is like" nav link |Safari|Thank you page |Loads Hints and tips page|
-|Click "Your experiences" nav link|Safari|Thank you page |Loads form page|
-|Hover over "Home" nav link|Safari|Thank you page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Hints/Tips and What it is like" nav link |Safari|Thank you page |Text enlargens |N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
-|Hover over "Your experiences" nav link|Safari|Thank you page |Text enlargens |
-|Main section|Safari|Thank you page|N/A|Function not anticipated to work on touch screen phone but it does enlargen as clicked
+|Click "Home" nav link |Safari|Thank you page |Loads index page|Pass|Tested with 10 second redirect disabled
+|Click "Hints/Tips and What it is like" nav link |Safari|Thank you page |Loads Hints and tips page|Pass|Tested with 10 second redirect disabled
+|Click "Your experiences" nav link|Safari|Thank you page |Loads form page|Tested with 10 second redirect disabled
+|Hover over each link|Safari|Thank you page |No hover on Safari |N/A|Function not anticipated to work on touch screen phone
 |Page should return to index after 10 seconds|Safari|Thank you page|Page should return to index after 10 seconds
 |Footer|Safari|Thank you page|
-|Click link in footer for dyslexia association |Safari|Thank you page |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Safari|Thank you page |Loads NHS website in new window|
-|Click link in footer for checklist |Safari|Thank you page |Loads external checklist page in new window|
-
-|Load from url by typing url|Chrome|None |Index page loads| | |
-|Index page looks as intended visually|Chrome|Index|Index page looks as intended
-|Nav bar|Chrome|Index||||
-|Click "Home" nav link |Chrome|Index |Remains on Index screen|
-|Click "Hints/Tips and What it is like" nav link |Chrome|Index |Loads Hints and tips page|
-|Click "Your experiences" nav link|Chrome|Index | Loads form page|
-|Hover over "Home" nav link|Chrome|Index | Text enlargens |
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Index |Text enlargens |
-|Hover over "Your experiences" nav link|Chrome|Index |Text enlargens |
-|Main section|Chrome|Index|
-|Click link in top left box |Chrome|Index|Loads Hints and tips page|
-|Click link in bottom left box |Chrome|Index |Loads external checklist page in new window|
-|Click link in top right box |Chrome|Index |Loads Hints and tips page|
-|Click link in bottom right box |Chrome|Index |Loads form page|
-|Footer|Chrome|Index|
-|Click link in footer for dyslexia association |Chrome|Index |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Chrome|Index |Loads NHS website in new window|
-|Click link in footer for checklist |Chrome|Index |Loads external checklist page in new window|
-|Hints page page looks as intended visually|Chrome|Hints page|Hints page page looks as intended
-|Nav bar|Chrome|Hints page||||
-|Click "Home" nav link |Chrome|Hints page |Loads index page|
-|Click "Hints/Tips and What it is like" nav link |Chrome|Hints page |Remains on hints page|
-|Click "Your experiences" nav link|Chrome|Hints page |Loads form page|
-|Hover over "Home" nav link|Chrome|Hints page |Text enlargens |
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Hints page |Text enlargens |
-|Hover over "Your experiences" nav link|Chrome|Hints page |Text enlargens |
-|Main section|Chrome|Hints page|
-|Blue to Yellow color change| Chrome|Hints page|When hovered or tapped color changes correctly
-|Scroll works in top right box|Chrome|Hints page|Can scroll through list|
-|You tube video|Chrome|Hints page|Plays only on request as an embedded video|
-|Footer|Chrome|Hints page|
-|Click link in footer for dyslexia association |Chrome|Hints page |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Chrome|Hints page |Loads NHS website in new window|
-|Click link in footer for checklist |Chrome|Hints page |Loads external checklist page in new window|
-|Form page page looks as intended visually|Chrome|Form page|Form page page looks as intended
-|Nav bar|Chrome|Form page||||
-|Click "Home" nav link |Chrome|Form page |Loads index page|
-|Click "Hints/Tips and What it is like" nav link |Chrome|Form page |Loads Hints and tips page|
-|Click "Your experiences" nav link|Chrome|Form page |Remains on form page|
-|Hover over "Home" nav link|Chrome|Form page |Text enlargens |
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Form page |Text enlargens |
-|Hover over "Your experiences" nav link|Chrome|Form page |Text enlargens |
-|Main section|Chrome|Form page|
-|First name input|Chrome |Form page| Takes name input and produces error if attempt to submit empty|
-|Last name input|Chrome |Form page| Takes name input and produces error if attempt to submit empty|
-|Email input|Chrome|Form page| Will only accept text of email format and produces error if attempt to submit empty|
-|Contact permission box| Chrome|Form page|Can be empty or filled. Try both. 
-|Footer|Chrome|Form page|
-|Text area|Chrome|Form page|Text can be added and must be added or produces error|
-|Submit button|Chrome|Form page|If required sections are filled takes you to thank you page|
-|Click link in footer for dyslexia association |Chrome|Form page |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Chrome|Form page |Loads NHS website in new window|
-|Click link in footer for checklist |Chrome|Form page |Loads external checklist page in new window|
-|Thank you page page looks as intended visually|Chrome|Thank you page|Thank you page page looks as intended
-|Nav bar|Chrome|Thank you page||||
-|Click "Home" nav link |Chrome|Thank you page |Loads index page|
-|Click "Hints/Tips and What it is like" nav link |Chrome|Thank you page |Loads Hints and tips page|
-|Click "Your experiences" nav link|Chrome|Thank you page |Loads form page|
-|Hover over "Home" nav link|Chrome|Thank you page |Text enlargens |
-|Hover over "Hints/Tips and What it is like" nav link |Chrome|Thank you page |Text enlargens |
-|Hover over "Your experiences" nav link|Chrome|Thank you page |Text enlargens |
-|Main section|Chrome|Thank you page|
-|Page should return to index after 10 seconds|Chrome|Thank you page|Page should return to index after 10 seconds
-|Footer|Chrome|Thank you page|
-|Click link in footer for dyslexia association |Chrome|Thank you page |Loads dyslexia association website in new window|
-|Click link in footer for NHS |Chrome|Thank you page |Loads NHS website in new window|
-|Click link in footer for checklist |Chrome|Thank you page |Loads external checklist page in new window|
+|Click link in footer for dyslexia association |Safari|Thank you page |Loads dyslexia association website in new window|Pass|Tested with 10 second redirect disabled
+|Click link in footer for NHS |Safari|Thank you page |Loads NHS website in new window|Pass|Tested with 10 second redirect disabled
+|Click link in footer for checklist |Safari|Thank you page |Loads external checklist page in new window|Pass|Tested with 10 second redirect disabled
