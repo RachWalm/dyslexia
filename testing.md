@@ -4,7 +4,7 @@
 
 General testing was performed throughout development to ensure that the coding was behaving as anticipated. Bugs were fixed during development see Bugs section of README.md.
 
-Responsiveness was tested using the Chrome extension Responsive Viewer, the result of which is in README.md in the section responsiveness on different devices.
+Responsiveness was tested using the Chrome extension [Responsive viewer extension](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb). 
 
 My family Pat Walmsley and Sarah Walmsley and my partner Ian Harris used the website as typical user level participants. Pat Walmsley used a laptop and the browser Chrome. Sarah Walmsley used an ipad with Safari and Ian Harris used a google app with a Galaxy S10.
 
@@ -13,6 +13,8 @@ Pat Walmsley suggested to alternative wording and text positioning and size chan
 Sarah Walmsley and Ian Harris did not report any bugs.
 
 This testing team covered a variety of device compatibilities, browsers and abilities.
+
+The final testing tables at the bottom of this document were performed by myself.
 
 ## Responsiveness on different devices
 

@@ -291,6 +291,8 @@ It would be best to start at 12 seconds and not auto play etc. So this code was 
 
 - Icons were loaded from [font-awesome](https://fontawesome.com/).
 
+- Responsive testing was performed using [Responsive viewer extension](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+
 ### External links
 
 - External Link to [The Dyslexia Association of London](https://www.dyslexialondon.org/)
