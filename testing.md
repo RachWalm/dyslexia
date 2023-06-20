@@ -294,7 +294,7 @@ Tested function on Chrome/Safari/Firefox following the table below:
 |Click "Hints/Tips and What it is like" nav link |Safari|Thank you page |Loads Hints and tips page|Pass|Tested with 10 second redirect disabled
 |Click "Your experiences" nav link|Safari|Thank you page |Loads form page|Tested with 10 second redirect disabled
 |Hover over each link|Safari|Thank you page |No hover on Safari |N/A|Function not anticipated to work on touch screen phone
-|Page should return to index after 10 seconds|Safari|Thank you page|Page should return to index after 10 seconds
+|Page should return to index after 10 seconds|Safari|Thank you page|Page should return to index after 10 seconds|Pass
 |Footer|Safari|Thank you page|
 |Click link in footer for dyslexia association |Safari|Thank you page |Loads dyslexia association website in new window|Pass|Tested with 10 second redirect disabled
 |Click link in footer for NHS |Safari|Thank you page |Loads NHS website in new window|Pass|Tested with 10 second redirect disabled
