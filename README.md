@@ -259,7 +259,7 @@ by [jannoon028](https://www.freepik.com/free-photo/open-book-grass_966471.htm#qu
 
 - ![girl-reading](assets/images/book-read-person-girl-reading-reader-1041474-pxhere.com.jpg)  [link](https://pxhere.com/en/photo/1041474) to landing page center image of blindfolded girl reading - no attribution required
 
-- ![Hands-image](assets/images/hands.jpg) - [link](https://pxhere.com/en/photo/1041474) to image - no attribution required
+- ![Hands-image](assets/images/hands.jpg) - [link](https://pxhere.com/en/photo/335) to image - no attribution required
 
 To get the images cropped and to the correct size that was required the website used was [Resizepixel](https://www.resizepixel.com/)
 
@@ -287,7 +287,7 @@ It would be best to start at 12 seconds and not auto play etc. So this code was 
 
 - The first image in the README.md was a screenshot from [AmIResponsive](https://amiresponsive.co.uk/).
 
-- The pallet for the colors for the overall look of the website were generated using https://coolors.co/
+- The pallet for the colors for the overall look of the website were generated using [coolors](https://coolors.co/)
 
 - Icons were loaded from [font-awesome](https://fontawesome.com/).
 
