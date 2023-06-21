@@ -221,13 +221,24 @@ All detected bugs were solved
 
 ## Deployment
 
+### Deployment to Github
+
 The site was deployed to GitHub pages. It was deployed by the following actions:
-- In the git hub [repository](https://github.com/RachWalm/dyslexia), the settings tab was used.
-- 'Pages' was selected from the left hand side.
-- Under Build and deployment Source section had 'Deploy from Branch' and the 'main' branch was selected.
-- This selection was saved.
+1. In the git hub [repository](https://github.com/RachWalm/dyslexia), the settings tab was used.
+2. 'Pages' was selected from the left hand side.
+3. Under Build and deployment Source section had 'Deploy from Branch' and the 'main' branch was selected.
+4. This selection was saved.
 
 Here is the [link](https://rachwalm.github.io/dyslexia/) to the deployed page.
+
+### Local deployment
+
+1. In the git hub [repository](https://github.com/RachWalm/dyslexia), clicked code button
+2. clicked local
+3. choose HTTPS
+4. copied link
+5. went to terminal (version control) and input the following :git clone https://github.com/RachWalm/dyslexia.git
+6. the project was be cloned
 
 ## Resources used/Credits
 ### Technology used
