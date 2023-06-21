@@ -18,12 +18,17 @@ body {
     width: 100%;
 }
 
+a {
+    color: rgb(109, 1, 109);
+}
+
 a:hover {
     color: #1C967F;
 }
 
 /*header*/
 header {
+    width: 100%;
     background-color: white !important;
 }
 
